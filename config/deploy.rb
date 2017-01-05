@@ -1,14 +1,12 @@
 set :application, "biribablog_jekyll"
 
-set :repository,  "."
+set :repository,  "./_site"
 
 role :web, "45.55.169.72"
 
 set :deploy_via, :copy
 
-set :copy_cache, true
-
-set :copy_exclude, Dir["**/{.*,*}"].reject{ |f| f =~ /\_site/  }
+set :scm, "none"
 
 set :user, "deploy"
 
@@ -33,12 +31,8 @@ namespace :deploy do
     run "cd #{deploy_to}/current/; rm -f REVISION"
   end
 
-  task :rename_jekyll_directory do
-    run "cd #{deploy_to}/current/; mv _site/ public/"
-  end
 end
 
 before "deploy:update", "deploy:update_jekyll"
-after "deploy:update", "deploy:rename_jekyll_directory"
 after "deploy:update", "deploy:cleanup"
 after "deploy:cleanup", "deploy:delete_revision_file"
