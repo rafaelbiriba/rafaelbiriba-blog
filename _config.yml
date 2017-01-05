@@ -32,7 +32,7 @@ kramdown:
 mathjax: true
 
 include: []
-exclude: ["so-simple-theme-master-source", "Gemfile", "Gemfile.lock", "config", "Capfile"]
+exclude: ["so-simple-theme-master-source", "Gemfile", "Gemfile.lock", "config", "Capfile", "README.md"]
 
 
 # Site owner
