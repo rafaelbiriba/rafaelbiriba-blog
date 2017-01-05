@@ -1,0 +1,60 @@
+# Site wide configuration
+
+title: Rafael Biriba Blog
+locale: en_US
+description: Technology and Development stuffs!
+logo: site-logo.png
+search: true
+url: https://rafaelbiriba.com
+baseurl: /blog
+
+# Jekyll configuration
+
+permalink:  /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: []
+exclude: ["so-simple-theme-master-source", "Gemfile", "Gemfile.lock", "config", "Capfile"]
+
+
+# Site owner
+owner:
+  name: Rafael Biriba
+  avatar: bio-photo.jpg
+  email: radicalrj@gmail.com
+  disqus-shortname: rafaelbiriba
+  twitter: rafaelbiriba
+  facebook: rafaelbiribarj
+  github: rafaelbiriba
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: rafaelbiriba
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

@@ -1,0 +1,10 @@
+# Site navigation links
+
+- title: About Me
+  url: https://rafaelbiriba.com/about-me
+
+- title: Blog
+  url: /
+
+- title: Search
+  url: /search/

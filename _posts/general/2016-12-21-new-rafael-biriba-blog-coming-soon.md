@@ -1,0 +1,21 @@
+---
+layout: post
+title: "New Rafael Biriba Blog: Coming soon..."
+excerpt: "A new blog with new ideas to share everything that I know."
+category: general
+tags: [blog, coming soon]
+image:
+  feature: so-simple-sample-image-2.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+comments: true
+share: true
+---
+
+A new blog with new ideas to share everything that I know.
+
+## Sharing will enrich everyone with more knowledge
+
+Follow me on twitter to know when the blog will be ready:
+
+<p><a href="https://twitter.com/rafaelbiriba" class="twitter-follow-button" data-show-screen-name="false" data-show-count="true" data-dnt="true" data-size="large">Follow @rafaelbiriba</a></p>
