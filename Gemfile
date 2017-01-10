@@ -4,4 +4,5 @@ gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
-gem 'capistrano', '~> 2'
+gem "capistrano", "~> 2"
+gem "rake"
