@@ -5,7 +5,7 @@ locale: en_US
 description: Technology and Development stuffs!
 logo: site-logo.png
 search: true
-url: https://rafaelbiriba.com
+url: http://127.0.0.1:4000
 baseurl: /blog
 
 # Jekyll configuration
