@@ -1,6 +1,6 @@
 set :application, "biribablog_jekyll"
 
-set :repository,  "./_site"
+set :repository,  "./_site_production"
 
 role :web, "45.55.169.72"
 
@@ -24,7 +24,7 @@ namespace :deploy do
 
   desc "Run jekyll to update site before uploading"
   task :update_jekyll do
-    %x(rm -rf _site/* && bundle exec jekyll build)
+    %x(rm -rf _site_production/* && bundle exec jekyll build -c _config.yml,_config_production.yml)
   end
 
   task :delete_revision_file do
