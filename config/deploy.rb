@@ -24,7 +24,7 @@ namespace :deploy do
 
   desc "Run jekyll to update site before uploading"
   task :update_jekyll do
-    %x(rm -rf _site_production/* && bundle exec jekyll build -c _config.yml,_config_production.yml)
+    %x(rm -rf _site_production/* && bundle exec jekyll build -c config/jekyll_config.yml,config/jekyll_config_production.yml)
   end
 
   task :delete_revision_file do
