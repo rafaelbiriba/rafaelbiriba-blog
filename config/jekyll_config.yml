@@ -38,7 +38,7 @@ exclude: ["so-simple-theme-master-source", "Gemfile", "Gemfile.lock", "config", 
 # Site owner
 owner:
   name: Rafael Biriba
-  avatar: bio-photo.jpg
+  avatar: https://www.gravatar.com/avatar/81d01f418d9288c14a94cd21b086156e?s=200
   email: radicalrj@gmail.com
   disqus-shortname: rafaelbiriba
   twitter: rafaelbiriba
