@@ -4,10 +4,6 @@ title: "New Rafael Biriba Blog: Coming soon..."
 excerpt: "A new blog with new ideas to share everything that I know."
 category: general
 tags: [blog, coming soon]
-image:
-  feature: so-simple-sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
 ---
