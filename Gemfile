@@ -4,5 +4,6 @@ gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
+gem 'jekyll-compose', group: [:jekyll_plugins]
 gem "capistrano", "~> 2"
 gem "rake"
