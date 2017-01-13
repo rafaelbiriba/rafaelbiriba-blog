@@ -6,6 +6,7 @@ category: general
 tags: [blog, coming soon]
 comments: true
 share: true
+ads: true
 ---
 
 A new blog with new ideas to share everything that I know.
