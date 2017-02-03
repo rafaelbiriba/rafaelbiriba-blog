@@ -3,7 +3,7 @@
 title: Rafael Biriba Blog
 locale: en_US
 description: Technology and Development stuffs!
-logo: site-logo.png
+logo: rb-logo.png
 search: true
 url: http://127.0.0.1:4000
 baseurl: /blog
