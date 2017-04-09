@@ -2,13 +2,13 @@ set :application, "biribablog_jekyll"
 
 set :repository,  "./_site_production"
 
-role :web, "45.55.169.72"
+role :web, ENV["rafaelbiribacom_server_deploy"] || ""
 
 set :deploy_via, :copy
 
 set :scm, "none"
 
-set :user, "deploy"
+set :user, ENV["rafaelbiribacom_user_deploy"] || ""
 
 set :use_sudo, false
 
