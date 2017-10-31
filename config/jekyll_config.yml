@@ -39,7 +39,7 @@ exclude: ["_original-theme-so-simple", "Gemfile", "Gemfile.lock", "config", "Cap
 owner:
   name: Rafael Biriba
   avatar: https://www.gravatar.com/avatar/81d01f418d9288c14a94cd21b086156e?s=200
-  email: radicalrj@gmail.com
+  email: #email
   disqus-shortname: rafaelbiriba
   twitter: rafaelbiriba
   facebook: rafaelbiribarj
