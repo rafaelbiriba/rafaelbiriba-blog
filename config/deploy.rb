@@ -2,17 +2,17 @@ set :application, "biribablog_jekyll"
 
 set :repository,  "./_site_production"
 
-role :web, ENV["rafaelbiribacom_server_deploy"] || ""
+role :web, ENV.fetch("rafaelbiribacom_server_deploy")
 
 set :deploy_via, :copy
 
 set :scm, "none"
 
-set :user, ENV["rafaelbiribacom_user_deploy"] || ""
+set :user, ENV.fetch("rafaelbiribacom_user_deploy")
 
 set :use_sudo, false
 
-set :deploy_to, "/www/#{application}"
+set :deploy_to, "#{ENV.fetch("rafaelbiribacom_deploy_to")}/#{application}"
 
 set :keep_releases, 2
 
