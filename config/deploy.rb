@@ -14,7 +14,7 @@ set :use_sudo, false
 
 set :deploy_to, "#{ENV.fetch("rafaelbiribacom_deploy_to")}/#{application}"
 
-set :keep_releases, 2
+set :keep_releases, 3
 
 namespace :deploy do
   [:start, :stop, :restart, :finalize_update].each do |t|
