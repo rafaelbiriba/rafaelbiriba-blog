@@ -1,0 +1,13 @@
+---
+layout: page
+title: Últimos posts em português
+excerpt: "Os últimos posts em português sobre desenvolvimento e tecnologia escrito por Rafael Biriba."
+language: pt
+permalink: /pt/index.html
+---
+
+<ul class="post-list">
+{% for post in site.categories.pt limit:20 %}
+  <li><article>{{ site.pt_flag }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>

@@ -27,7 +27,13 @@
       {% if site.logo != null %}
   		<a href="{{ site.url }}{{ site.baseurl }}/" rel="home" title="{{ site.title }}"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
       {% endif %}
-      <h1 class="site-title animated fadeIn"><a href="{{ site.url }}{{ site.baseurl }}/">{{ site.title }}</a></h1>
+      {% if page.category.first == "en" or page.language == "en" %}
+        {% assign flag = site.en_flag %}
+      {% endif %}
+      {% if page.category.first == "pt" or page.language == "pt" %}
+        {% assign flag = site.pt_flag %}
+      {% endif %}
+      <h1 class="site-title animated fadeIn"><a href="{{ site.url }}{{ site.baseurl }}/">{{ site.title }} {{ flag }}</a></h1>
 		<h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2>
 	</div>
 </header><!-- /.masthead -->{% endif %}

@@ -8,6 +8,9 @@ search: true
 url: http://127.0.0.1:4000
 baseurl: /blog
 
+en_flag: "&#x1F1EC;&#x1F1E7;"
+pt_flag: "&#127463;&#127479;"
+
 # Jekyll configuration
 
 permalink:  /:categories/:title/
@@ -16,7 +19,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
