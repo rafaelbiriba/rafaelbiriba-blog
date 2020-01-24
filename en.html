@@ -1,0 +1,14 @@
+---
+layout: page
+title: Latest Posts
+excerpt: "The latest posts in english about technology and development written by Rafael Biriba."
+search_omit: true
+lang: en
+permalink: /en/index.html
+---
+
+<ul class="post-list">
+{% for post in site.categories.en limit:20 %}
+  {% include helper/post_element_of_lists.html %}
+{% endfor %}
+</ul>

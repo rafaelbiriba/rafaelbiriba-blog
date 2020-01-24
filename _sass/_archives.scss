@@ -34,6 +34,7 @@
     @include font-size(14,no);
     text-transform: uppercase;
     display: none;
+    text-align: right;
 
     @include media($medium) {
       display: inline;

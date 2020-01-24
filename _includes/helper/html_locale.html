@@ -1,0 +1,5 @@
+{%- if include.lang -%}
+  {{ site.t[include.lang].html_locale }}
+{%- else -%}
+  {{ site.t["en"].html_locale }}
+{%- endif -%}

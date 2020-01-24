@@ -5,8 +5,11 @@ sitemap: false
 [
 {% for post in site.posts %}
   {% if post.title != null and post.title != empty and post.search_omit != true %}
+    {%- capture title -%}
+      {{ site.t[post.lang].flag }}{{ post.title }}
+    {%- endcapture -%}
     {% if forloop.index > 1 %},{% endif %}{
-      "title"			: {{ post.title | jsonify }},
+      "title"			: {{ title | jsonify }},
       "link"			: "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
       "excerpt"		: "{{ post.excerpt | markdownify | strip_html | strip_newlines | escape_once | remove: '\[' | remove: '\]' | remove: '\(' | remove: '\)' }}"
     }

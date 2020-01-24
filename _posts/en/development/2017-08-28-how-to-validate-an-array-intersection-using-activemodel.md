@@ -2,7 +2,8 @@
 layout: post
 title: How to validate an array intersection using activemodel
 excerpt: "If you are trying to validate if an array is included in another array, I have the perfect gem to recommend to you."
-category: development
+category: [en, development]
+lang: en
 tags: [ruby, activemodel, validation]
 comments: true
 share: true

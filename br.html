@@ -1,0 +1,13 @@
+---
+layout: page
+title: Últimas publicações
+excerpt: "As últimas publicações em português sobre desenvolvimento e tecnologia escrito por Rafael Biriba."
+lang: br
+permalink: /br/index.html
+---
+
+<ul class="post-list">
+{% for post in site.categories.br limit:20 %}
+  {% include helper/post_element_of_lists.html %}
+{% endfor %}
+</ul>
