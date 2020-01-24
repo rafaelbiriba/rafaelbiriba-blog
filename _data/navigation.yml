@@ -3,8 +3,11 @@
 - title: About Me
   url: https://rafaelbiriba.com/about-me
 
-- title: Blog Home
-  url: /
+- title: Blog Home &#x1F1EC;&#x1F1E7;
+  url: /en/
 
-- title: Blog Search
+- title: Blog Home &#127463;&#127479;
+  url: /br/
+
+- title: Search &#x1F50D;
   url: /search/

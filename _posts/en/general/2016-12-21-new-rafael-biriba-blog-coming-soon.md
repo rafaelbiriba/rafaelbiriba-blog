@@ -3,6 +3,7 @@ layout: post
 title: "New Rafael Biriba Blog: Coming soon..."
 excerpt: "A new blog with new ideas to share everything that I know."
 category: [en, general]
+lang: en
 tags: [blog, coming soon]
 comments: true
 share: true

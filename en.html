@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Latest Posts in english
+title: Latest Posts
 excerpt: "The latest posts in english about technology and development written by Rafael Biriba."
 search_omit: true
-language: en
+lang: en
 permalink: /en/index.html
 ---
 
 <ul class="post-list">
 {% for post in site.categories.en limit:20 %}
-  <li><article>{{ site.en_flag }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+  {% include helper/post_element_of_lists.html %}
 {% endfor %}
 </ul>
