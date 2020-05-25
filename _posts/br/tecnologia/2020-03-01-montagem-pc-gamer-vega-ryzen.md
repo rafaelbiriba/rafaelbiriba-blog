@@ -26,26 +26,26 @@ Ainda terei o prazer de assistir o lançamento do novo XBOX e do novo PS5, saben
 Depois de muita muita pesquisa (naquela época 2017/18), consegui chegar na seguinte lista:
 
 - **Case:** Crystal Series™ 460X RGB Compact ATX Mid-Tower Case
-- **Extra Coolers:** 3x CORSAIR Air Series LED SP120 RGB
+- **Extra Coolers:** 3x CORSAIR Air Series LED SP120 RGB (https://amzn.to/2zr21AY)
 - **Leds:** Phanteks RGB LED-Strip Combo Set
-- **Motherboard:** ASUS PRIME X370-PRO Gaming
-- **Memory:** G.SKILL RipJaws V 16GB/K2 2400MHz
-- **GPU:** Radeon™ RX VEGA 56 GAMING OC 8G
-- **Processor:** AMD Ryzen™ 7 1800X Processor
+- **Motherboard:** ASUS PRIME X370-PRO Gaming (https://amzn.to/2ZyRazN)
+- **Memory:** G.SKILL RipJaws V 16GB/K2 2400MHz (https://amzn.to/2LTryFP)
+- **GPU:** Radeon™ RX VEGA 56 GAMING OC 8G (https://amzn.to/3ekRJRZ)
+- **Processor:** AMD Ryzen™ 7 1800X Processor (https://amzn.to/2TEtjuN)
 - **Cooler:** be quiet! Dark Rock Pro 3 CPU Cooler
-- **Power Supply:** be quiet! Straight Power 11 750W
+- **Power Supply:** be quiet! Straight Power 11 750W (https://amzn.to/2Zy5qIT)
 - **Hardrives:**
-  - SanDisk SSD X600 M.2 256GB
-  - SanDisk SSD Plus 240GB Sata III
-  - Western Digital WD Blue 1TB
-- **Monitor:** Acer Predator Gaming 1440p FreeSync XG270HUA
+  - SanDisk SSD X600 M.2 256GB (https://amzn.to/2XttA4Q)
+  - SanDisk SSD Plus 240GB Sata III (https://amzn.to/2ZAVCOA)
+  - Western Digital WD Blue 1TB (https://amzn.to/3ekDOvg)
+- **Monitor:** Acer Predator Gaming 1440p FreeSync XG270HUA (https://amzn.to/3enBx2p)
 
 E acessórios:
 
-- **Keyboard:** K63 Compact Mechanical Gaming CHERRY MX Red
-- **Mouse:** GLAIVE RGB Gaming
+- **Keyboard:** K63 Compact Mechanical Gaming CHERRY MX Red (https://amzn.to/2TDOTPV)
+- **Mouse:** GLAIVE RGB Gaming (https://amzn.to/2zr0uec)
 - **Sound system:** Logitech Z537 Multimedia 2.1 Speaker System
-- **Webcam:** Logitech HD Pro Webcam C920
+- **Webcam:** Logitech HD Pro Webcam C920 (https://amzn.to/2XyC2jo)
 
 > Lembre-se que é um build de 2017/2018, então não é lá essas coisas se você está lendo essa publicação em >2020
 
