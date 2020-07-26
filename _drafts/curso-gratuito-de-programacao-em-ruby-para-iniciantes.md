@@ -29,11 +29,11 @@ Para manter todo esse ecosistema digital, precisamos de desenvolvedores, respons
 
 Em outras palavras:
 
-:white_check_mark: A programação é importante e necessária
+:ballot_box_with_check: A programação é importante e necessária
 
-:white_check_mark: O mercado de trabalho está aquecido e contratando
+:ballot_box_with_check: O mercado de trabalho está aquecido e contratando
 
-:white_check_mark: E agora você tem um curso básico para te dar um empurrãozinho
+:ballot_box_with_check: E agora você tem um curso básico para te dar um empurrãozinho
 
 **Então, o que você está esperando para começar a aprender?**
 
