@@ -33,9 +33,15 @@ kramdown:
 
 mathjax: true
 
-include: []
-exclude: ["_original-theme-so-simple", "Gemfile", "Gemfile.lock", "config", "Capfile", "README.md"]
-
+#include: []
+exclude:
+  - _original-theme-so-simple
+  - Gemfile
+  - Gemfile.lock
+  - config
+  - Capfile
+  - README.md
+  - _drafts/source_examples
 
 # Site owner
 owner:
