@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aprendendo a programar com Ruby: O Básico para iniciantes
+title: "Aprendendo a programar com Ruby: O Básico para iniciantes"
 excerpt: "Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação."
 category: [br, programacao]
 lang: br
@@ -10,7 +10,7 @@ share: true
 ads: true
 ---
 
-![](/blog/images/2020/curso-gratuito-programacao.jpg)
+![](/blog/images/2020/curso-basico-ruby-banner.jpg)
 
 > :warning: **Esta página será sempre atualizada com novos links ou mudança no planejamento! [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/)** :warning:
 
