@@ -84,16 +84,16 @@ O curso ainda está em processo de gravação. As aulas são liberadas aos pouco
 **2.A. Instalação no Windows 10** <br/>
 Instalação do Ruby em um computador com Windows 10.<br/>
 
-```ruby
-Previsao: 06/Agosto/2020
-```
+- **Agendado para 06/Agosto/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=gcJjsUMd2mw](https://www.youtube.com/watch?v=gcJjsUMd2mw)
 
 **2.B. Instalação no Ubuntu 20** <br/>
 Instalação do Ruby em um computador com Ubuntu 20.04.<br/>
 
-```ruby
-Previsao: 06/Agosto/2020
-```
+- **Agendado para 06/Agosto/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=XX-1i6mw30c](https://www.youtube.com/watch?v=XX-1i6mw30c)
 
 #### 3. Executando um código Ruby
 
