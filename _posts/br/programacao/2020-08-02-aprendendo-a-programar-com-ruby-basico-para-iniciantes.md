@@ -82,12 +82,14 @@ O curso ainda está em processo de gravação. As aulas são liberadas aos pouco
 #### 2. Instalação do Ruby
 
 **2.A. Instalação no Windows 10** <br/>
+Instalação do Ruby em um computador com Windows 10.<br/>
 
 ```ruby
 Previsao: 06/Agosto/2020
 ```
 
 **2.B. Instalação no Ubuntu 20** <br/>
+Instalação do Ruby em um computador com Ubuntu 20.04.<br/>
 
 ```ruby
 Previsao: 06/Agosto/2020
@@ -95,19 +97,22 @@ Previsao: 06/Agosto/2020
 
 #### 3. Executando um código Ruby
 
-**3.A.** <br/>
+**3.A. Instalando editor de texto no Windows 10 e executando um código ruby**<br/>
+Instalação do editor Atom ([https://atom.io/](https://atom.io/)) num computador com Windows 10 e como rodar os primeiros códigos em ruby.<br/>
 
 ```ruby
 Previsao: 10/Agosto/2020
 ```
 
-**3.B.** <br/>
+**3.B. Instalando editor de texto no Ubuntu 20.04 e executando um código ruby**<br/>
+Instalação do editor Atom ([https://atom.io/](https://atom.io/)) num computador com Ubuntu 20.04 e como rodar os primeiros códigos em ruby.<br/>
 
 ```ruby
 Previsao: 10/Agosto/2020
 ```
 
-**3.C.** <br/>
+**3.C. Executando um código Ruby diretamente do navegador**<br/>
+Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utilizando o site ([https://repl.it/](https://repl.it/)).
 
 ```ruby
 Previsao: 13/Agosto/2020
