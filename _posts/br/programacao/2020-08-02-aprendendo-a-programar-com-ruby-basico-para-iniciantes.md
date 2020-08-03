@@ -66,7 +66,7 @@ Cada aula terá uma página dedicada, com o link do youtube, referência para le
 
 Para que você possa entender melhor o curso, assista o vídeo de introdução, onde eu explico o curso em si, os motivos pelos quais programação é importante, o mercado de trabalho e por fim a estrutura do curso e divisão dos capítulos das aulas.
 
-**Slides**: Link disponível depois!
+**Slides**: [https://docs.google.com/presentation/d/169zzBl6wVWu-i0_lM8qPJqRkjez8rkimObx3RXFV29g/](https://docs.google.com/presentation/d/169zzBl6wVWu-i0_lM8qPJqRkjez8rkimObx3RXFV29g/)
 
 **Vídeo**: Assista no youtube: [https://www.youtube.com/watch?v=Sjw3S3QzpR4](https://www.youtube.com/watch?v=Sjw3S3QzpR4)
 
