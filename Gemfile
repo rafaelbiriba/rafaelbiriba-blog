@@ -4,7 +4,8 @@ gem "jekyll", "~> 4.1.1"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
-gem 'jemoji'
-gem 'jekyll-compose', group: [:jekyll_plugins]
+gem "jekyll-target-blank"
+gem "jemoji"
+gem "jekyll-compose"
 gem "capistrano", "~> 2"
 gem "rake"

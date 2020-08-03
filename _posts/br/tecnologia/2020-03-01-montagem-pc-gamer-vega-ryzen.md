@@ -4,7 +4,7 @@ title: Passo a passo da montagem do meu pc gamer utilizando uma Vega 56 e Ryzen 
 excerpt: "Confira a explicação de cada parte do meu pc gamer, além do passo a passo, desde do unboxing até a montagem utilizando uma vega 56 e um ryzen 1800x"
 category: [br, tecnologia]
 lang: br
-tags: [pc gamer, tecnologia, montagem, passo a passo, review, setup, vega, ryzen, youtube]
+tags: [pc_gamer, tecnologia, montagem, passo_a_passo, review, setup, vega, ryzen, youtube]
 comments: true
 share: true
 ads: true
