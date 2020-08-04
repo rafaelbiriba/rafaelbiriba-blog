@@ -123,9 +123,11 @@ Previsao: 13/Agosto/2020
 
 **4.A.** <br/>
 
-```ruby
-Previsao: 17/Agosto/2020
-```
+- **Agendado para 17/Agosto/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: `Youtube link`
 
 **4.B.** <br/>
 
