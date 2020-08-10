@@ -121,7 +121,7 @@ Previsao: 13/Agosto/2020
 
 #### 4. Ruby Basics 1
 
-**4.A.** <br/>
+**4.A.**: Aula + Exercícios<br/>
 
 - **Agendado para 17/Agosto/2020**
 
@@ -129,11 +129,13 @@ Previsao: 13/Agosto/2020
 
 - **Vídeo**: [https://www.youtube.com/watch?v=A0zfpcbSFTc](https://www.youtube.com/watch?v=A0zfpcbSFTc)
 
-**4.B.** <br/>
+**4.B.**: Correção dos exercícios<br/>
 
-```ruby
-Previsao: 20/Agosto/2020
-```
+- **Agendado para 20/Agosto/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-4B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4B-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: `Youtube link`
 
 #### 5. Ruby Basics 2 - Array
 
