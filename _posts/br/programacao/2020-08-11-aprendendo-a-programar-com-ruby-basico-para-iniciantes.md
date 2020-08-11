@@ -85,9 +85,11 @@ Previsao: 20/Agosto/2020
 
 **5.A.** <br/>
 
-```ruby
-Previsao: 24/Agosto/2020
-```
+- **Agendado para 24/Agosto/2020**
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-5A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-5A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **5.B.** <br/>
 
