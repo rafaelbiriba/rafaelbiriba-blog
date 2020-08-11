@@ -135,7 +135,7 @@ Previsao: 13/Agosto/2020
 
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-4B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4B-aprendendo-a-programar-com-ruby-basico/)
 
-- **Vídeo**: `Youtube link`
+- **Vídeo**: [https://www.youtube.com/watch?v=W1gPL99b4Zs](https://www.youtube.com/watch?v=W1gPL99b4Zs)
 
 #### 5. Ruby Basics 2 - Array
 

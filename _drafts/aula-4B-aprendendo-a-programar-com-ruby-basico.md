@@ -16,9 +16,15 @@ ads: true
 
 # 4.B. Ruby Basics 1 - Correção dos exercícios
 
+Essa é a segunda parte da aula de ruby básico 1, onde eu faço a correção comentada dos exercícios.
+
 ### Vídeo da aula
 
-- `Youtube link`
+- [https://www.youtube.com/watch?v=W1gPL99b4Zs](https://www.youtube.com/watch?v=W1gPL99b4Zs)
+
+### Exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/)
 
 ### Correção dos exercícios
 
