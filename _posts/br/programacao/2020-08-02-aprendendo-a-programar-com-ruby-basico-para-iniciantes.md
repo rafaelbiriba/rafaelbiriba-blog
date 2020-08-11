@@ -127,7 +127,7 @@ Previsao: 13/Agosto/2020
 
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/)
 
-- **Vídeo**: `Youtube link`
+- **Vídeo**: [https://www.youtube.com/watch?v=A0zfpcbSFTc](https://www.youtube.com/watch?v=A0zfpcbSFTc)
 
 **4.B.** <br/>
 
