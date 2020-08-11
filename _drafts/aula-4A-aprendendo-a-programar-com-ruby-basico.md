@@ -16,6 +16,9 @@ ads: true
 
 # 4.A. Ruby Basics 1
 
+Essa é a primeira aula com o conteúdo básico do Ruby. Explico brevemente sobre String, Integer and Float, além de operações matemáticas e variáveis.
+Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
+
 ### Vídeo da aula
 
 - `Youtube link`
