@@ -21,7 +21,7 @@ Não deixe de tentar resolver os exercícios da aula e investir algum tempo estu
 
 ### Vídeo da aula
 
-- `Youtube link`
+- [https://www.youtube.com/watch?v=A0zfpcbSFTc](https://www.youtube.com/watch?v=A0zfpcbSFTc)
 
 ### Conteúdo da aula
 
