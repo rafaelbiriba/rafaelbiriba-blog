@@ -10,7 +10,7 @@ share: true
 ads: true
 ---
 
-![](/blog/images/2020/curso-basico-ruby-banner.jpg)
+![](/blog/images/curso_ruby_basico/banner-curso-ruby-4B.jpg)
 
 > :warning: Material da aula 4! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
 
