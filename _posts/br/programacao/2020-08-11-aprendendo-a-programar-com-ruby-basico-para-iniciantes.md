@@ -10,7 +10,7 @@ share: true
 ads: true
 ---
 
-![](/blog/images/2020/curso-basico-ruby-banner.jpg)
+![](/blog/images/curso_ruby_basico/banner-curso-ruby.jpg)
 
 > :warning: **Esta página será sempre atualizada com novos links ou mudança no planejamento! [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/)** :warning:
 
