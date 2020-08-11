@@ -16,7 +16,7 @@ ads: true
 
 # 5.A. Ruby Basics 2
 
-Essa é a segunda aula com o conteúdo básico do Ruby. Explico brevemente sobre String, Integer and Float, além de operações matemáticas e variáveis.
+Essa é a segunda aula com o conteúdo básico do Ruby. Explico brevemente sobre array e string#split.
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
 ### Vídeo da aula
