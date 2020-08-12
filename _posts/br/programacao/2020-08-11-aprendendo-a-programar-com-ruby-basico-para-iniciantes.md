@@ -93,9 +93,11 @@ Previsao: 20/Agosto/2020
 
 **5.B.** <br/>
 
-```ruby
-Previsao: 27/Agosto/2020
-```
+- **Agendado para 27/Agosto/2020**
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-5B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-5B-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 ## 6. Ruby Basics 3 - Hash
 
