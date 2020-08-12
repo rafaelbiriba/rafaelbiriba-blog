@@ -149,7 +149,6 @@ b = 10
 c = 11
 d = 15
 e = 20
-x = 10
 ```
 Utilizando as variáveis disponíveis, sem digitar nenhum número ou criar nenhuma variável adicional, imprimir o seguinte resultado: `Valores: [5,150,110,2,1]`
 
