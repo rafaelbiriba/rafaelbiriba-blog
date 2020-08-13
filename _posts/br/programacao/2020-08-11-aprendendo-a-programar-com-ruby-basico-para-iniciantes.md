@@ -99,9 +99,11 @@ Previsao: 27/Agosto/2020
 
 **6.A.** <br/>
 
-```ruby
-Previsao: 31/Agosto/2020
-```
+- **Agendado para 31/Agosto/2020**
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-6A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-6A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **6.B.** <br/>
 
