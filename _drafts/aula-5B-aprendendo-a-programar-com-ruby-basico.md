@@ -14,7 +14,7 @@ ads: true
 
 > :warning: Material da aula 5B! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
 
-# 5.B. Ruby Basics 2
+# 5.B. Ruby Basics 2 - Correção dos exercícios
 
 Essa é a segunda parte da aula de ruby básico 2, onde eu faço a correção comentada dos exercícios.
 
@@ -127,3 +127,5 @@ puts "Resultado: #{resultado_final}"
 
 # Resultado: ["banana", "morango", "abacaxi", "limao", "mamao"]
 ```
+
+---
