@@ -127,9 +127,11 @@ Previsao: 10/Setembro/2020
 
 **8.A.** <br/>
 
-```ruby
-Previsao: 14/Setembro/2020
-```
+- **Agendado para 14/Setembro/2020**
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-8A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-8A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **8.B.** <br/>
 
