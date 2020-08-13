@@ -12,7 +12,7 @@ ads: true
 
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-6B.jpg)
 
-> :warning: Material da aula XX! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
+> :warning: Material da aula 6.B! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
 
 # 6.B. Ruby Basics 3 - Correção dos exercícios
 
