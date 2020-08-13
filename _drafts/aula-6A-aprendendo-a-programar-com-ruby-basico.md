@@ -12,7 +12,7 @@ ads: true
 
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-6A.jpg)
 
-> :warning: Material da aula XX! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
+> :warning: Material da aula 6.A! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
 
 # 6.A. Ruby Basics 3 - Hash
 
