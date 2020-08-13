@@ -63,8 +63,6 @@ Instalação do editor Atom ([https://atom.io/](https://atom.io/)) num computado
 **3.C. Executando um código Ruby diretamente do navegador**<br/>
 Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utilizando o site ([https://repl.it/](https://repl.it/)).
 
-- **Agendado para 13/Agosto/2020**
-
 - **Vídeo**: [https://www.youtube.com/watch?v=7r5Wapxq18g](https://www.youtube.com/watch?v=7r5Wapxq18g)
 
 ## 4. Ruby Basics 1
