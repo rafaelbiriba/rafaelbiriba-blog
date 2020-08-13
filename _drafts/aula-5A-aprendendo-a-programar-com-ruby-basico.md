@@ -14,7 +14,7 @@ ads: true
 
 > :warning: Material da aula 5! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
 
-# 5.A. Ruby Basics 2
+# 5.A. Ruby Basics 2 - Array
 
 Essa é a segunda aula com o conteúdo básico do Ruby. Explico brevemente sobre array e string#split.
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
@@ -143,40 +143,48 @@ Imprimir cada elemento da lista, separadamente em uma linha.
 
 #### 2.
 Considerando as variáveis abaixo:
-```
+
+```ruby
 a = 5
 b = 10
 c = 11
 d = 15
 e = 20
 ```
+
 Utilizando as variáveis disponíveis, sem digitar nenhum número ou criar nenhuma variável adicional, imprimir o seguinte resultado: `Valores: [5,150,110,2,1]`
 
 ---
 
 #### 3.
 Considerando o array abaixo:
-```
+
+```ruby
 exemplo = [["a","b"], ["c","d"], ["e", "f"]]
 ```
+
 Imprima o texto `faca` utilizando o array acima.
 
 ---
 
 #### 4.
 Considerando o array abaixo:
-```
+
+```ruby
 exemplo = [[1,2,["a", "b"]], [3,4,["c", "d"]]]
 ```
+
 Imprima o texto `3a2d` utilizando o array acima.
 
 ---
 
 #### 5.
 Considerando a variável abaixo:
-```
+
+```ruby
 texto = "banana#morango#abacaxi"
 ```
+
 Imprimir o resultado em uma lista.
 `Resultado: ["banana", "morango", "abacaxi"]`
 
@@ -184,8 +192,12 @@ Imprimir o resultado em uma lista.
 
 #### 6. [DESAFIO]
 Considerando a variável abaixo:
-```
+
+```ruby
 texto = "banana#morango#abacaxi!limao!mamao"
 ```
+
 Imprimir o resultado em uma lista.
 `Resultado: ["banana", "morango", "abacaxi", "limao", "mamao"]`
+
+---
