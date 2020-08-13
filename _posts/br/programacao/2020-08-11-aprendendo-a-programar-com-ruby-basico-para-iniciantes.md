@@ -125,7 +125,7 @@ Previsao: 10/Setembro/2020
 
 ## 8. Ruby Basics 5 - Each
 
-**8.A.** <br/>
+**8.A. Aula** <br/>
 
 - **Agendado para 14/Setembro/2020**
 
