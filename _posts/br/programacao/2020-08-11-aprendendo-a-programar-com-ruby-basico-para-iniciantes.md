@@ -83,7 +83,7 @@ Previsao: 20/Agosto/2020
 
 ## 5. Ruby Basics 2 - Array
 
-**5.A.** <br/>
+**5.A. Aula** <br/>
 
 - **Agendado para 24/Agosto/2020**
 
