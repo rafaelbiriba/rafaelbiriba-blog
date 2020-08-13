@@ -108,7 +108,7 @@ Criar uma variável com seu nome, uma variável com sua idade. Imprimir o result
 #### 2.
 Utilizando o código com variáveis abaixo:
 
-```
+```ruby
 dolar = 5.00
 euro = 6.00
 
@@ -125,7 +125,7 @@ NOTA: Você NÃO pode digitar nenhum número enquanto resolver esse exercício. 
 #### 3. [DESAFIO]
 Considerando as variáveis abaixo:
 
-```
+```ruby
 a = 2
 b = 5
 ```
