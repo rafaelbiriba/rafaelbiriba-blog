@@ -133,12 +133,13 @@ Previsao: 10/Setembro/2020
 
 - **Vídeo**: []()
 
-**8.B.** <br/>
+**8.B. Correção dos exercícios** <br/>
 
-```ruby
-Previsao: 17/Setembro/2020
-```
+- **Agendado para 17/Setembro/2020**
 
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-8B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-8B-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 ## 9. Ruby Basics 6 - Times and Range
 
 **9.A.** <br/>
