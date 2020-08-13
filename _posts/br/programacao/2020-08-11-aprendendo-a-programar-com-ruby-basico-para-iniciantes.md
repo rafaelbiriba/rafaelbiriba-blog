@@ -105,11 +105,13 @@ Previsao: 27/Agosto/2020
 
 - **Vídeo**: []()
 
-**6.B.** <br/>
+**6.B. Correção dos exercícios** <br/>
 
-```ruby
-Previsao: 03/Setembro/2020
-```
+- **Agendado para 03/Setembro/2020**
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-6B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-6B-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 ## 7. Ruby Basics 4 - Conditionals
 
