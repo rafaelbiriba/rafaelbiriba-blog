@@ -91,7 +91,7 @@ Previsao: 20/Agosto/2020
 
 - **Vídeo**: []()
 
-**5.B.** <br/>
+**5.B. Correção dos exercícios** <br/>
 
 - **Agendado para 27/Agosto/2020**
 
