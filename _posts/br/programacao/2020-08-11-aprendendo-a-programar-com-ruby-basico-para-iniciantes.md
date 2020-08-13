@@ -111,11 +111,13 @@ Previsao: 03/Setembro/2020
 
 ## 7. Ruby Basics 4 - Conditionals
 
-**7.A.** <br/>
+**7.A. Aula** <br/>
 
-```ruby
-Previsao: 07/Setembro/2020
-```
+- **Agendado para 07/Setembro/2020**
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-7A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-7A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **7.B.** <br/>
 
