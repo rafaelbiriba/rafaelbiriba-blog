@@ -97,7 +97,7 @@ Previsao: 27/Agosto/2020
 
 ## 6. Ruby Basics 3 - Hash
 
-**6.A.** <br/>
+**6.A. Aula** <br/>
 
 - **Agendado para 31/Agosto/2020**
 
