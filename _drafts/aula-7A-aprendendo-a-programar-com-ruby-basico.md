@@ -107,7 +107,7 @@ if a == 20 and b == 40
   puts "a é 20 e b é 40"
 elsif a == 30 and b == 30
   puts "a é 30 e b é 30"
-elseif a == 20 and b == 30
+elsif a == 20 and b == 30
   puts "a é 20 e b é 30"
 else
   puts "alguma coisa está errada"
