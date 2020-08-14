@@ -202,6 +202,16 @@ Utilizando a função `.times`, escreva um código que imprima todos os números
 
 #### 2.
 
+Cálculo de potência usando `.times`:
+
+`Uma potência de expoente natural é o resultado da multiplicação de um dado número por si mesmo um certo número de vezes, ou seja, é uma forma de representar sucessivas multiplicações de um só fator, repetido um determinado número de vezes. Ou seja, 3 x 3 x 3 x 3 x 3 é o mesmo que 3 elevado a 5`
+
+Calcule 4 elevado a 5, usando `.times`
+
+---
+
+#### 3.
+
 Crie uma variável com seu nome e uma variável com sua idade.
 Escreva um código que imprima cada ano de sua idade a frase `Fulano já teve 1 ano(s)` ou `Fulano tem 1 ano`
 
@@ -231,7 +241,18 @@ NOTA: Você pode combinar o uso de `.times` e `.each` aqui.
 
 ---
 
-#### 4.
+#### 5.
+
+Considerando a variável abaixo:
+
+```ruby
+inicio = 32
+```
+Imprima todos os números desde a variável `inicio` até o número 51.
+
+---
+
+#### 6.
 
 Considerando a variável abaixo:
 
@@ -242,26 +263,26 @@ temperatura_max_celsius = 40
 
 Utilizando `ranges`, escreva um código que imprima cada uma das temperaturas junto com uma descrição baseado na regra abaixo:
 
-- `<19` Imprimir "frio"
-- `>=20 e <29` Imprimir "agradável"
+- `<=19` Imprimir "frio"
+- `>=20 e <=29` Imprimir "agradável"
 - `>=30` imprimir "quente"
 
 ---
 
-#### 5. DESAFIO
+#### 7. DESAFIO
 
 Considerando uma sequência de 1 até 3, veja o exemplo abaixo:
 
 ```
 1
-Rafael
+1. Rafael
 2
-Rafael
-Rafael
+1. Rafael
+2. Rafael
 3
-Rafael
-Rafael
-Rafael
+1. Rafael
+2. Rafael
+3. Rafael
 ```
 
-Escreva um código que imprima , linha a linha a sequência de 1 até 10. Entre cada número, imprima o seu nome a quantidade de vezes referente ao número que você imprimiu.
+Escreva um código que imprima ,linha a linha, uma sequência de 1 até 10. Entre cada número da sequência, imprima o seu nome a quantidade de vezes referente ao número que você imprimiu. (Veja o exemplo acima e faça o mesmo de 1 até 10)

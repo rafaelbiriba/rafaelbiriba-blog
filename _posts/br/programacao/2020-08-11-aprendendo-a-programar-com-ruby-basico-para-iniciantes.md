@@ -137,7 +137,7 @@ Previsao: 17/Setembro/2020
 
 ## 9. Ruby Basics 6 - Times and Range
 
-**9.A.** <br/>
+**9.A. Aula** <br/>
 
 - **Agendado para 21/Setembro/2020**
 
