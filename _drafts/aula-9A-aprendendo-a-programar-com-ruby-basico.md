@@ -196,7 +196,7 @@ end
 
 #### 1.
 
-Utilizando a função `.times`, escreva um código que imprima todos os números de 1 até 20, exceto múltiplos de 3.
+Utilizando a função `.times`, escreva um código que imprima todos os números de 1 até 21, exceto múltiplos de 3.
 
 ---
 
