@@ -33,6 +33,19 @@ Não deixe de tentar resolver os exercícios da aula e investir algum tempo estu
 
 ##### Exemplos da aula
 
+##### Math: %
+
+```ruby
+3 % 5
+# 3
+
+10 % 2
+# 0
+
+6 % 5
+#1
+```
+
 ##### Times
 
 ```ruby
