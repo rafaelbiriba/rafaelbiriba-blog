@@ -12,7 +12,7 @@ ads: true
 
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-4B.jpg)
 
-> :warning: Material da aula 4! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
+> :warning: Material da aula 4.B! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
 
 # 4.B. Ruby Basics 1 - Correção dos exercícios
 
