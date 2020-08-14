@@ -202,6 +202,23 @@ Utilizando a função `.times`, escreva um código que imprima todos os números
 
 #### 2.
 
+Crie uma variável com seu nome e uma variável com sua idade.
+Escreva um código que imprima cada ano de sua idade a frase `Fulano já teve 1 ano(s)` ou `Fulano tem 1 ano`
+
+Exemplo:
+
+```ruby
+  nome = "Fulano"
+  idade = 3
+  # Fulano já teve 1 ano(s)
+  # Fulano já teve 2 ano(s)
+  # Fulano tem 3 ano(s)
+```
+
+---
+
+#### 3.
+
 Considerando a variável abaixo:
 
 ```ruby
@@ -214,7 +231,7 @@ NOTA: Você pode combinar o uso de `.times` e `.each` aqui.
 
 ---
 
-#### 3.
+#### 4.
 
 Considerando a variável abaixo:
 
@@ -231,7 +248,7 @@ Utilizando `ranges`, escreva um código que imprima cada uma das temperaturas ju
 
 ---
 
-#### 4. DESAFIO
+#### 5. DESAFIO
 
 Considerando uma sequência de 1 até 3, veja o exemplo abaixo:
 
