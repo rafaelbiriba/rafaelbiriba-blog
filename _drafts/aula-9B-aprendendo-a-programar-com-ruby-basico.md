@@ -55,6 +55,43 @@ end
 #### 2.
 
 ```ruby
+# 4*4*4*4*4
+
+resultado = 4
+4.times do
+  resultado = resultado * 4
+end
+puts resultado
+```
+
+---
+
+#### 3.
+
+```ruby
+  nome = "Rafael"
+  idade = 30
+
+  30.times do |x|
+    x = x + 1 #Evitar o zero
+
+    if x == idade
+      puts "#{nome} tem #{x} ano(s)"
+    else
+      puts "#{nome} já teve #{x} ano(s)"
+    end
+  end
+  # Rafael já teve 1 ano(s)
+  # Rafael já teve 2 ano(s)
+  # ....
+  # Rafael tem 30 ano(s)
+```
+
+---
+
+#### 4.
+
+```ruby
 letras = ["A", "B", "C"]
 
 letras.each do |letra|
@@ -82,7 +119,36 @@ end
 
 ---
 
-#### 3.
+#### 5.
+
+```ruby
+inicio = 32
+(inicio..51).each { |x|  puts x }
+# 32
+# 33
+# 34
+# 35
+# 36
+# 37
+# 38
+# 39
+# 40
+# 41
+# 42
+# 43
+# 44
+# 45
+# 46
+# 47
+# 48
+# 49
+# 50
+# 51
+```
+
+---
+
+#### 6.
 
 ```ruby
 temperatura_min_celsius = 10
@@ -133,7 +199,7 @@ end
 
 ---
 
-#### 4. DESAFIO
+#### 7. DESAFIO
 
 ```ruby
 (1..10).each do |numero|
@@ -142,20 +208,32 @@ end
     puts "#{x + 1}. Rafael"
   end
 end
+# 1
+# 1. Rafael
+# 2
+# 1. Rafael
+# 2. Rafael
+# 3
+# 1. Rafael
+# 2. Rafael
+# 3. Rafael
+# 4
+# 1. Rafael
+# 2. Rafael
+# 3. Rafael
+# 4. Rafael
+# ...
+# ...
+# ...
+# 10
+# 1. Rafael
+# 2. Rafael
+# 3. Rafael
+# 4. Rafael
+# 5. Rafael
+# 6. Rafael
+# 7. Rafael
+# 8. Rafael
+# 9. Rafael
+# 10. Rafael
 ```
-
-Considerando uma sequência de 1 até 3, veja o exemplo abaixo:
-
-```
-1
-Rafael
-2
-Rafael
-Rafael
-3
-Rafael
-Rafael
-Rafael
-```
-
-Escreva um código que imprima , linha a linha a sequência de 1 até 10. Entre cada número, imprima o seu nome a quantidade de vezes referente ao número que você imprimiu.
