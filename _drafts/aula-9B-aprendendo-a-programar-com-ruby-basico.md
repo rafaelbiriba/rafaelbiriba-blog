@@ -30,53 +30,119 @@ Essa é a sexta parte da aula de ruby básico 6, onde eu faço a correção come
 
 #### 1.
 
-Utilizando a função `.times`, escreva um código que imprima todos os números de 1 até 20, exceto múltiplos de 3.
-
 ```ruby
-20.times do |x|
-  if x % 3 == 0
-    puts "- #{x}"
-    next
-  else
-    puts x + 1
-  end
+21.times do |x|
+  puts x unless x % 3 == 0
 end
+
+# 1
+# 2
+# 4
+# 5
+# 7
+# 8
+# 10
+# 11
+# 13
+# 14
+# 16
+# 17
+# 19
 ```
 
 ---
 
 #### 2.
 
-Considerando a variável abaixo:
-
 ```ruby
 letras = ["A", "B", "C"]
+
+letras.each do |letra|
+  5.times do |numero|
+    puts "#{letra}#{numero + 1}"
+  end
+end
+
+# A1
+# A2
+# A3
+# A4
+# A5
+# B1
+# B2
+# B3
+# B4
+# B5
+# C1
+# C2
+# C3
+# C4
+# C5
 ```
-
-Escreva um código que imprima em cada linha a sequência: `A1`, `A2`, `A3`, `A4`, `A5`, `B1`, `B2`, `B3`, `B4`, `B5`, `C1`, `C2`, `C3`, `C4`, `C5`
-
-NOTA: Você pode combinar o uso de `.times` e `.each` aqui.
 
 ---
 
 #### 3.
 
-Considerando a variável abaixo:
-
 ```ruby
 temperatura_min_celsius = 10
 temperatura_max_celsius = 40
+
+(temperatura_min_celsius..temperatura_max_celsius).each do |temperatura|
+  if temperatura <= 19
+    puts "#{temperatura} - frio"
+  elsif temperatura >= 20 and temperatura <= 29
+    puts "#{temperatura} - agradável"
+  elsif temperatura >= 30
+    puts "#{temperatura} - quente"
+  end
+end
+
+# 10 - frio
+# 11 - frio
+# 12 - frio
+# 13 - frio
+# 14 - frio
+# 15 - frio
+# 16 - frio
+# 17 - frio
+# 18 - frio
+# 19 - frio
+# 20 - agradável
+# 21 - agradável
+# 22 - agradável
+# 23 - agradável
+# 24 - agradável
+# 25 - agradável
+# 26 - agradável
+# 27 - agradável
+# 28 - agradável
+# 29 - agradável
+# 30 - quente
+# 31 - quente
+# 32 - quente
+# 33 - quente
+# 34 - quente
+# 35 - quente
+# 36 - quente
+# 37 - quente
+# 38 - quente
+# 39 - quente
+# 40 - quente
 ```
-
-Utilizando `ranges`, escreva um código que imprima cada uma das temperaturas junto com uma descrição baseado na regra abaixo:
-
-- `<19` Imprimir "frio"
-- `>=20 e <29` Imprimir "agradável"
-- `>=30` imprimir "quente"
 
 ---
 
 #### 4. DESAFIO
+
+```ruby
+(1..10).each do |numero|
+  puts numero
+  numero.times do |x|
+    puts "#{x + 1}. Rafael"
+  end
+end
+```
 
 Considerando uma sequência de 1 até 3, veja o exemplo abaixo:
 

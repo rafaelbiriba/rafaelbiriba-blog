@@ -145,11 +145,13 @@ Previsao: 17/Setembro/2020
 
 - **Vídeo**: []()
 
-**9.B.** <br/>
+**9.B. Correção dos exercícios** <br/>
 
-```ruby
-Previsao: 24/Setembro/2020
-```
+- **Agendado para 24/Setembro/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-9B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-9B-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 ## 10. Ruby Basics 7 - While
 
