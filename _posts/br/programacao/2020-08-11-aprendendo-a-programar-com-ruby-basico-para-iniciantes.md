@@ -139,9 +139,11 @@ Previsao: 17/Setembro/2020
 
 **9.A.** <br/>
 
-```ruby
-Previsao: 21/Setembro/2020
-```
+- **Agendado para 21/Setembro/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-9A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-9A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **9.B.** <br/>
 
