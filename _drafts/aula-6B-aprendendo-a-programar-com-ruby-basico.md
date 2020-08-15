@@ -33,6 +33,18 @@ Essa é a terceira parte da aula de ruby básico 3, onde eu faço a correção c
 #### 1.
 
 ```ruby
+  lista = { frutas: [], verduras: [] }
+  lista[:frutas] << "banana"
+  lista[:verduras] << "cenoura"
+  lista[:frutas] << "uva"
+  lista[:verduras] << "brocolis"
+  puts lista
+  # {:frutas=>["banana", "uva"], :verduras=>["cenoura", "brocolis"]}
+```
+
+#### 2.
+
+```ruby
 resultado = {
   a: "banana",
   b: 10,
@@ -46,7 +58,7 @@ puts resultado[:c]
 
 ---
 
-#### 2.
+#### 3.
 
 ```ruby
 exemplo = {
@@ -62,7 +74,7 @@ puts "#{exemplo[:b]} - #{exemplo[:c][1]}#{exemplo[:c][0]}"
 
 ---
 
-#### 3.
+#### 4.
 
 ```ruby
 lista_compras = {
@@ -76,7 +88,7 @@ puts "Carlos vai comprar #{lista_compras[:carlos]}"
 
 ---
 
-#### 4.
+#### 5.
 
 ```ruby
 exemplo = {
