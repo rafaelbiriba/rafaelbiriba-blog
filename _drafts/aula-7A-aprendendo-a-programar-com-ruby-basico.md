@@ -206,8 +206,8 @@ exemplo = {
 ```
 ```
 exemplo = {
-  valor: 25
-  taxa: 9
+  valor: 15
+  taxa: 15
 }
 ```
 ```
@@ -217,9 +217,9 @@ exemplo = {
 }
 ```
 
-Escreva um código (utilizando apenas um bloco de if/elsif/else) que verifique o hash exemplo e:
+Escreva um código (utilizando apenas um bloco de if/elsif/else) que verifique o hash exemplo se:
 1. Se valor ou taxa for maior que 15, imprimir "Muito alto"
-2. Se valor e taxa somados forem maior que 30, imprimir "Soma muito alta"
+2. Se valor e taxa somados forem maior ou igual a 30, imprimir "Soma muito alta"
 
 NOTA: Você deve utilizar uma váriavel de exemplo por vez. Utilizando o mesmo código e verificando se o retorno esta correto.
 
