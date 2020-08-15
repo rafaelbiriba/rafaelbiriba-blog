@@ -25,15 +25,121 @@ Não deixe de tentar resolver os exercícios da aula e investir algum tempo estu
 
 ### Conteúdo da aula
 
+- Array: parte 2
+
 - Hash
 
 ##### Exemplos da aula
+
+##### Array - parte 2
+
+```ruby
+exemplo = []
+puts exemplo[0] #nil
+exemplo[0] = "Rafael"
+puts "#{exemplo}" # ["Rafael"]
+
+exemplo[1] = 10
+exemplo[2] = "Roberto"
+puts "#{exemplo}" # ["Rafael", 10, "Roberto"]
+
+exemplo[0] = 50
+puts "#{exemplo}" # [50, 10, "Roberto"]
+```
+
+```ruby
+exemplo = []
+exemplo << "Rafael"
+exemplo << "Roberto"
+exemplo << 2
+puts "#{exemplo}" # ["Rafael", "Roberto", 2]
+```
+
+```ruby
+exemplo = ["a", "b"]
+# index     0    1
+
+exemplo[2] = "c"
+exemplo << "d"
+puts "#{exemplo}" # ["a", "b", "c", "d"]
+```
+
+```ruby
+exemplo = ["a", "b"]
+# index     0    1
+
+exemplo << "c" # ["a", "b", "c"]
+exemplo[2] = "d"
+puts "#{exemplo}" # ["a", "b", "d"]
+```
+
+```ruby
+exemplo = []
+exemplo << 10
+exemplo << ["Rafael"]
+puts "#{exemplo}" # [10, ["Rafael"]]
+            # index 0    1
+
+puts exemplo[1][0] #Rafael
+exemplo[1][1] = "Roberto"
+puts "#{exemplo[1]}" #["Rafael", "Roberto"]
+exemplo[1] << "Ronaldo"
+puts "#{exemplo[1]}" #["Rafael", "Roberto", "Ronaldo"]
+puts "#{exemplo}" # [10, ["Rafael", "Roberto", "Ronaldo"]]
+```
+
+##### Hash
 
 ```ruby
 exemplo = {}
 
 exemplo = {nome: "Rafael", idade: 30}
 puts "Meu nome é #{exemplo[:nome]} e tenho #{exemplo[:idade]} anos"
+```
+
+```ruby
+exemplo = { :a => 2 }
+puts exemplo[:a]
+
+exemplo = { a: 2 }
+puts exemplo[:a]
+
+exemplo = { "a" => 2 }
+puts exemplo["a"]
+```
+
+```ruby
+exemplo = {}
+exemplo["teste1"] = 1
+exemplo[:teste2] = 2
+puts "#{exemplo}" #{"teste1"=>1, :teste2=>2}
+puts exemplo["teste1"] # 1
+puts exemplo[:teste1] # não existe na lista exemplo
+
+puts exemplo[:teste2] # 2
+puts exemplo["teste2"] # não existe na lista exemplo
+
+exemplo = { "teste1" => 1, :teste2 => 2}
+```
+
+```ruby
+exemplo = {}
+exemplo[:teste] = 1
+puts "#{exemplo}" #{:teste=>1}
+```
+
+```ruby
+exemplo = {}
+exemplo[:lista] = []
+puts "#{exemplo}" #{:lista=>[]}
+
+exemplo[:lista] << "Morango"
+exemplo[:lista] << "Banana"
+puts "#{exemplo}" #{:lista=>["Banana", "Morango"]}
+
+
+exemplo[:nome] = "Compras"
+puts "#{exemplo}" #{:lista=>["Banana", "Morango"], :nome => "Compras"}
 ```
 
 ```ruby
@@ -54,18 +160,25 @@ puts exemplo[1][:idade]
 
 ### Links úteis
 
+- [https://ruby-doc.org/core-2.7.0/Array.html#method-i-3C-3C](https://ruby-doc.org/core-2.7.0/Array.html#method-i-3C-3C)
+
 - [https://ruby-doc.org/core-2.7.0/Hash.html](https://ruby-doc.org/core-2.7.0/Hash.html)
 
 ### Exercícios
 
 #### 1.
-Criar uma hash simples contendo 3 chaves principais (a, b, c).
-`a` deve conter um texto. `b` deve conter um número. `c` deve um float.
+Criar um hash que contenha um array chamado frutas e um array chamado verduras.
+Utilizando o `<<` adicione no array correto os valores: `banana`, `cenoura`, `uva`, `brocolis`
+Imprima a lista no final.
+
+#### 2.
+Criar uma hash simples contendo 3 chaves principais (:a, :b, "c").
+`:a` deve conter um texto. `:b` deve conter um número. `"c"` deve um float.
 Imprimir o valor das chaves a,b,c separadamente em cada linha.
 
 ---
 
-#### 2.
+#### 3.
 Considerando o hash abaixo:
 
 ```ruby
@@ -81,13 +194,13 @@ NOTA: Você deve utilizar os numeros do array de 0 a 9 para formar o `50` e o `1
 
 ---
 
-#### 3.
+#### 4.
 Criar e imprimir uma lista de compras com produtos de mercado, para duas pessoas diferentes, utilizando um único hash para armazenar os dados.
 Imprimir a lista de cada pessoa. Exemplo `Rafael vai comprar: ["produto1", "produto2"]` `Roberto vai comprar: ["produto3", "produto4"]`
 
 ---
 
-#### 4. [DESAFIO]
+#### 5. [DESAFIO]
 Considerando o hash abaixo:
 
 ```ruby
