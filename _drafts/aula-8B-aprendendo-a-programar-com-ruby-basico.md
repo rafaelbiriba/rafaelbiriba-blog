@@ -43,8 +43,16 @@ end
 #### 2.
 
 ```ruby
-lista = "Rafael!Roberto!Rodolfo!Marcos!Rodrigo!Jorge!Lucas!Carlos!Dario!Ronaldo!Luis!Moises!Tulio!Armando!Beto!Mathias".split("!")
-lista.each do |nome|
+lista = "Rafael!Roberto!Rodolfo!Marcos!Rodrigo!Jorge!Lucas!Carlos!Dario!Ronaldo!Luis!Moises!Tulio!Armando!Beto!Mathias"
+
+# OPCAO DE RESPOSTA 1
+nomes = lista.split("!")
+nomes.each do |nome|
+  puts "Oi, #{nome}!"
+end
+
+# OPCAO DE RESPOSTA 2
+lista.split("!").each do |nome|
   puts "Oi, #{nome}!"
 end
 ```
@@ -63,6 +71,7 @@ exemplo.each do |chave, valor|
   soma = soma + valor
 end
 puts soma
+# 13
 ```
 
 ---
@@ -80,6 +89,7 @@ agenda.each do |contato|
   else
     next
   end
+  puts "ESSA LINHA NAO VAI SER EXECUTADA NUNCA POR CAUSA DO NEXT/BREAK"
 end
 ```
 
