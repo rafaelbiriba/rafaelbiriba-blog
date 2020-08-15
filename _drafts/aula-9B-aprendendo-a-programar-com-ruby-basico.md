@@ -31,6 +31,29 @@ Essa é a sexta parte da aula de ruby básico 6, onde eu faço a correção come
 #### 1.
 
 ```ruby
+
+# OPCAO DE RESPOSTA 1
+21.times do |x|
+  if x % 3 != 0
+    puts x
+  end
+end
+
+# OPCAO DE RESPOSTA 2
+21.times do |x|
+  if x % 3 == 0
+    next
+  end
+  puts x
+end
+
+# OPCAO DE RESPOSTA 3
+21.times do |x|
+  next if x % 3 == 0
+  puts x
+end
+
+# OPCAO DE RESPOSTA 4
 21.times do |x|
   puts x unless x % 3 == 0
 end
