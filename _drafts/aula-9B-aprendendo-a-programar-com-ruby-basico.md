@@ -95,7 +95,7 @@ puts resultado
   nome = "Rafael"
   idade = 30
 
-  30.times do |x|
+  idade.times do |x|
     x = x + 1 #Evitar o zero
 
     if x == idade
@@ -146,7 +146,12 @@ end
 
 ```ruby
 inicio = 32
-(inicio..51).each { |x|  puts x }
+
+(inicio..51).each { |x| puts x }
+
+(inicio..51).each do |x|
+  puts x
+end
 # 32
 # 33
 # 34
