@@ -86,6 +86,19 @@ puts "Rafael vai comprar #{lista_compras[:rafael]}"
 puts "Carlos vai comprar #{lista_compras[:carlos]}"
 ```
 
+```ruby
+lista_compras = {}
+lista_compras[:rafael] = []
+lista_compras[:carlos] = []
+lista_compras[:rafael] << "Banana"
+lista_compras[:rafael] << "Morango"
+lista_compras[:carlos] << "Laranja"
+lista_compras[:carlos] << "Abacaxi"
+
+puts "Rafael vai comprar #{lista_compras[:rafael]}"
+puts "Carlos vai comprar #{lista_compras[:carlos]}"
+```
+
 ---
 
 #### 5.
@@ -99,6 +112,31 @@ exemplo = {
 
 exemplo[:fora2] = {}
 exemplo[:fora2][:dentro2] = "2"
+
+puts exemplo
+```
+
+```ruby
+exemplo = {
+  fora1: {
+    dentro1: "1"
+  }
+}
+
+exemplo[:fora2] = { dentro2: "2" }
+
+puts exemplo
+```
+
+```ruby
+exemplo = {
+  fora1: {
+    dentro1: "1"
+  },
+  fora2: {
+    dentro2: "2"
+  }
+}
 
 puts exemplo
 ```
