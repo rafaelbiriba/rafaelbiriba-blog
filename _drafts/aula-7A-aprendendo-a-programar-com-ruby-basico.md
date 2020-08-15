@@ -53,6 +53,15 @@ end
 ```
 
 ```ruby
+==
+!=
+>
+>=
+<
+<=
+```
+
+```ruby
 exemplo = 5
 if exemplo != 1
   puts "Não é 1"
