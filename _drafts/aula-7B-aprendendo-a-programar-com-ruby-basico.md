@@ -37,10 +37,10 @@ peso = 50
 
 if peso >= 70
   puts "Está acima do peso."
+elsif peso > 40 and peso < 70
+  puts "Está no peso ideal"
 elsif peso <= 40
   puts "Está abaixo do peso"
-else
-  puts "Está no peso ideal"
 end
 ```
 
@@ -58,6 +58,10 @@ end
 puts taxa
 
 
+valor = 10
+taxa = valor > 10 ? 5 : 2
+puts taxa
+
 puts valor > 10 ? 5 : 2
 ```
 
@@ -71,8 +75,8 @@ puts valor > 10 ? 5 : 2
 #   taxa: 5
 # }
 # exemplo = {
-#   valor: 25,
-#   taxa: 9
+#   valor: 15,
+#   taxa: 15
 # }
 exemplo = {
   valor: 14,
@@ -81,7 +85,7 @@ exemplo = {
 
 if exemplo[:valor] > 15 or exemplo[:taxa] > 15
   puts "Muito alto"
-elsif (exemplo[:valor] + exemplo[:taxa]) > 30
+elsif (exemplo[:valor] + exemplo[:taxa]) >= 30
   puts "Soma muito alta"
 end
 ```
@@ -104,7 +108,7 @@ end
 # altura = 1.77
 
 nome = "ana"
-peso = 39.3
+peso = 35.3
 altura = 1.60
 
 imc = peso / (altura * altura)
