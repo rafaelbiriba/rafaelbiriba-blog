@@ -69,17 +69,17 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **4.A. Aula** <br/>
 
-- **Agendado para 17/Agosto/2020**
-
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=A0zfpcbSFTc](https://www.youtube.com/watch?v=A0zfpcbSFTc)
 
 **4.B. Correção dos exercícios** <br/>
 
-```ruby
-Previsao: 20/Agosto/2020
-```
+- **Agendado para 20/Agosto/2020**
+
+- **Material da aula**: -
+
+- **Vídeo**: [https://www.youtube.com/watch?v=W1gPL99b4Zs](https://www.youtube.com/watch?v=W1gPL99b4Zs)
 
 ## 5. Ruby Basics 2 - Array
 
