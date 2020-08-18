@@ -32,6 +32,34 @@ Essa é a sétima parte da aula de ruby básico 2, onde eu faço a correção co
 #### 1.
 
 ```ruby
+puts "Digite os minutos:"
+minutos = gets.to_i
+
+puts "Isso equivale à #{minutos * 60} segundos"
+```
+
+---
+
+#### 2.
+
+```ruby
+puts "Digite o nome de uma fruta:"
+fruta = gets.chomp
+
+if fruta == "morango"
+  puts "Suco de morango é bom!"
+elsif fruta == "manga"
+  puts "Sorvete de manga é bom!"
+else
+  puts "#{fruta} parece ótima(o)!"
+end
+```
+
+---
+
+#### 3.
+
+```ruby
 total = 0
 
 while total < 8 do
@@ -42,7 +70,7 @@ end
 
 ---
 
-#### 2.
+#### 4.
 
 ```ruby
 ## POSSIVEL RESPOSTA 1
@@ -72,4 +100,19 @@ end
 
 puts resposta
 ```
+---
+
+#### 5. DESAFIO
+
+```ruby
+  senha = "A4B5"
+  senha_digitada = ""
+
+  while senha_digitada != senha
+    puts "Digite a senha correta:"
+    senha_digitada = gets.chomp
+  end
+  puts "Senha descoberta!"
+```
+
 ---
