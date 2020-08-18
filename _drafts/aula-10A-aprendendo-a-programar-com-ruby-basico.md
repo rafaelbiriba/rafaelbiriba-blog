@@ -125,13 +125,3 @@ Quantas vezes eu posso dobrar o número 2 (exemplo: 2*2*2*2*2) para que o valor 
 NOTA: Usar `while`
 
 ---
-
-#### 3.
-
-Calcular os primeiros 20 números primos.
-
-```
-Um número é classificado como primo se ele é maior do que um e é divisível apenas por um e por ele mesmo.
-```
-
-NOTA: Usar `while`
