@@ -161,11 +161,14 @@ Previsao: 24/Setembro/2020
 
 - **Vídeo**: []()
 
-**10.B.** <br/>
+**10.B. Correção dos exercícios** <br/>
 
-```ruby
-Previsao: 01/Outubro/2020
-```
+- **Agendado para 01/Outubro/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-10B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-10B-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
+
 
 ## 11. Thinking like programer
 
