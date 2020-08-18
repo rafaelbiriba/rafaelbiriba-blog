@@ -159,7 +159,7 @@ Previsao: 24/Setembro/2020
 
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-10A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-10A-aprendendo-a-programar-com-ruby-basico/)
 
-- **Vídeo**: [https://www.youtube.com/watch?v=W1gPL99b4Zs](https://www.youtube.com/watch?v=W1gPL99b4Zs)
+- **Vídeo**: []()
 
 **10.B.** <br/>
 
