@@ -16,7 +16,7 @@ ads: true
 
 # 10.A. Ruby Basics 7 - While
 
-Essa é a sétima aula com o conteúdo básico do Ruby. Explico brevemente sobre While.
+Essa é a sétima aula com o conteúdo básico do Ruby. Explico brevemente sobre gets (recebe valor digitado do usuário) e while.
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
 ### Vídeo da aula
@@ -36,7 +36,7 @@ Não deixe de tentar resolver os exercícios da aula e investir algum tempo estu
 ```ruby
   gets
   gets.chomp
-  gets.chomp.to_i
+  gets.to_i
 ```
 
 ```ruby
@@ -188,6 +188,7 @@ senha = "A4B5"
 ```
 
 Escreva um código que pergunte a senha para o usuário. Enquanto a senha digitada não for igual a `senha` acima, continue perguntando a senha.
+Quando o usuário descobrir a senha, imprima `Senha descoberta!`.
 
 DICA: Utilize `while` e `gets`
 
