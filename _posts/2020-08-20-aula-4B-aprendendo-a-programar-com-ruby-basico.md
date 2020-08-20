@@ -1,15 +1,24 @@
 ---
 layout: post
-title: "Aula 4B - Aprendendo a programar com Ruby: O Básico para iniciantes"
-excerpt: "Material da aula 4B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação."
-category: [br, programacao]
+title: 'Aula 4B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+excerpt: Material da aula 4B do curso aprendendo a programar com ruby, o básico para
+  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
+  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+category:
+- br
+- programacao
 lang: br
-tags: [programação, tecnologia, curso, ruby, iniciantes]
+tags:
+- programação
+- tecnologia
+- curso
+- ruby
+- iniciantes
 comments: true
 share: true
 ads: true
+date: 2020-08-20 09:38 +0200
 ---
-
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-4B.jpg)
 
 > :warning: Material da aula 4.B! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
