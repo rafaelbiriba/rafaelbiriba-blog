@@ -201,3 +201,7 @@ Imprimir o resultado em uma lista.
 `Resultado: ["banana", "morango", "abacaxi", "limao", "mamao"]`
 
 ---
+
+##### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-5B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-5B-aprendendo-a-programar-com-ruby-basico/)
