@@ -192,3 +192,7 @@ Escreva um código que pergunte a senha para o usuário. Enquanto a senha digita
 DICA: Utilize `while` e `gets`
 
 ---
+
+##### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-10B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-10B-aprendendo-a-programar-com-ruby-basico/)
