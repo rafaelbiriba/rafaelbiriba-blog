@@ -216,3 +216,7 @@ Imprima o hash `exemplo` no final:
 `{:fora1=>{:dentro1=>"1"}, :fora2=>{:dentro2=>"2"}}`
 
 ---
+
+##### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-6B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-6B-aprendendo-a-programar-com-ruby-basico/)
