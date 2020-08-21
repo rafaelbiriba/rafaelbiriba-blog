@@ -257,15 +257,6 @@ Imprima uma lista de todos os valores que são comuns a `lista1` e `lista2`
 
 #### 6.
 
-Peça para o usuário digitar 5 números separados por `,` (exemplo: `3,7,9,11,15`)
-Retorne o valor da multiplicação desses 5 números.
-
-DICA: Você vai precisar utilizar o `.split`
-
----
-
-#### 7.
-
 Imprima os números de 1 a 100. Se o número for múltiplo de 2, imprimir `ping` ao invez do número. Se o número for múltiplo de 5, imprimir `pong` ao invez do número. Se for multiplo de 2 e de 5, imprimir `pingpong`.
 
 Exemplo:
