@@ -173,9 +173,11 @@ Previsao: 05/Outubro/2020
 
 **12.A.** <br/>
 
-```ruby
-Previsao: 08/Outubro/2020
-```
+- **Agendado para 08/Outubro/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-12A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-12A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **12.B.** <br/>
 
