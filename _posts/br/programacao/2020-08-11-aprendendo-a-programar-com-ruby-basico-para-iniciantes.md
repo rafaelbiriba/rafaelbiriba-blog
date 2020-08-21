@@ -181,9 +181,11 @@ Previsao: 05/Outubro/2020
 
 **12.B.** <br/>
 
-```ruby
-Previsao: 12/Outubro/2020
-```
+- **Agendado para 12/Outubro/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-12B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-12B-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 ## 13. Ruby Methods
 

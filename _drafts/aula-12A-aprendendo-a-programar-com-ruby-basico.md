@@ -273,3 +273,7 @@ ping
 9
 pingpong
 ```
+
+### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-12B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-12B-aprendendo-a-programar-com-ruby-basico/)
