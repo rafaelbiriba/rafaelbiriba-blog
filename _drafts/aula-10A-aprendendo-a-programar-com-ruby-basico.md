@@ -100,7 +100,7 @@ while exemplo < 10 do
   exemplo += 1
 end
 
-puts exemplo
+puts "fora do while!"
 ```
 
 ```ruby
@@ -116,7 +116,7 @@ while executar do
   end
 end
 
-puts exemplo
+puts "fora do while!"
 ```
 
 ```ruby
@@ -173,7 +173,7 @@ Escreva um código utilizando `while` que imprima a frase `Estou utilizando whil
 
 #### 4.
 
-Quantas vezes eu posso dobrar o número 2 (exemplo: 2*2*2*2*2) para que o valor fique menos de 10 milhões? (10.000.000)?
+Quantas vezes eu posso dobrar o número 2 (exemplo: `2*2*2*2*2`) para que o valor fique menos de 10 milhões? (10.000.000)?
 
 NOTA: Usar `while`
 
