@@ -161,7 +161,7 @@ end
   puts n
   if n % 2 == 0
     puts "PAR"
-  emd
+  end
 end
 # 0
 # PAR
@@ -190,7 +190,7 @@ while numero < 50 do
   numero = numero + 1
 end
 
-# 1 2 3 4 5 ...... 47 48 49 50
+# 1 2 3 4 5 ...... 47 48 49
 
 #################################
 
@@ -214,13 +214,13 @@ Peça para o usuário digitar 10 números. Seu programa deve retornar uma mensag
 
 #### 2.
 
-Faça uma calculadora simples, para somar ou diminuir dois números. Pergunte ao usuário o primeiro número, o segundo número e pergunte se a operação ser ser `soma` ou `subtracao` e retorne o valor.
+Faça uma calculadora simples, para somar ou diminuir dois números. Pergunte ao usuário o primeiro número, o segundo número e pergunte se a operação vai ser `soma` ou `subtracao` e retorne o valor.
 
 ---
 
 #### 3.
 
-Jogo da adivinhação da senha: Crie uma variável (vai ser a senha secreta) com um número inteiro a ser adivinhado pelo usuário. Pergunte ao usuário para adivinhar o número. Se ele acertar, imprima que ele acertou. Se ele errar, diga se o palpite foi maior ou menor que o número secreto e pergunte novamente. Continue perguntando ao usuário até o valor digitado for igual a sua senha secreta.
+Jogo da adivinhação da senha: Crie uma variável (vai ser a senha secreta) com um número inteiro a ser adivinhado pelo usuário. Peça ao usuário para adivinhar o número. Se ele acertar, imprima que ele acertou. Se ele errar, diga se o palpite foi maior ou menor que o número secreto e pergunte novamente. Continue perguntando ao usuário até o valor digitado for igual a sua senha secreta.
 
 ---
 
@@ -230,7 +230,7 @@ Considerando o código abaixo:
 
 ```ruby
 comidas = {
-  massa: ["Espageti", "Fusili", "Parafuso"],
+  massas: ["Espageti", "Fusili", "Parafuso"],
   frutas: ["Banana", "Morango", "Abacaxi", "Pessego", "Uva"],
   legumes: ["Cenoura", "Beterraba", "Batata"],
   graos: ["Feijao", "Ervilha", "Lentilha"],
@@ -251,7 +251,7 @@ lista1 = [1,3,6,7,8,12,15,22,24,29,30,35,42,46,55,76,78,83,89,95,102,107,114]
 lista2 = [3,5,9,12,13,17,29,31,35,40,51,64,69,71,75,78,81,83,90,96,100,105,107]
 ```
 
-Imprima uma lista de todos os valores que são comuns a `lista1` e `lista2`
+Imprima uma lista com todos os valores que são comuns a `lista1` e `lista2`
 
 ---
 
