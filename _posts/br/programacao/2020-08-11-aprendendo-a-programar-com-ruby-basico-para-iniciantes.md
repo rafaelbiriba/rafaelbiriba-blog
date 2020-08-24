@@ -81,11 +81,13 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 5. Ruby Basics 2 - Array
 
-**5.A.** <br/>
+**5.A. Aula** <br/>
 
-```ruby
-Previsao: 24/Agosto/2020
-```
+- **Agendado para 24/Agosto/2020**
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-5A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-5A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **5.B.** <br/>
 
