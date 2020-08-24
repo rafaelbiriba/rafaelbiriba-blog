@@ -107,9 +107,9 @@ while senha_secreta != senha_digitada do
   senha_digitada = gets.to_i
 
   if senha_digitada > senha_secreta
-    puts "A senha secreta é maior que isso!"
+    puts "A senha secreta é menor que a senha digitada!"
   elsif senha_digitada < senha_secreta
-    puts "A senha secreta é menor que isso!"
+    puts "A senha secreta é maior que a senha digitada!"
   end
 end
 puts "Parabéns, você acertou!"
@@ -122,7 +122,7 @@ puts "Parabéns, você acertou!"
 
 ```ruby
 comidas = {
-  massa: ["Espageti", "Fusili", "Parafuso"],
+  massas: ["Espageti", "Fusili", "Parafuso"],
   frutas: ["Banana", "Morango", "Abacaxi", "Pessego", "Uva"],
   legumes: ["Cenoura", "Beterraba", "Batata"],
   graos: ["Feijao", "Ervilha", "Lentilha"],
@@ -132,7 +132,7 @@ comidas = {
 todas = []
 
 comidas.each do |chave, valor|
-  # chave: massa, valor: [espageti, fusili]...
+  # chave: massas, valor: [espageti, fusili]...
   # chave: frutas, valor: [banana, ...]
 
   valor.each do |comida|
