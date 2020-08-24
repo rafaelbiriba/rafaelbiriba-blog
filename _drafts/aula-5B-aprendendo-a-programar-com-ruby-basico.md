@@ -20,7 +20,7 @@ Essa é a segunda parte da aula de ruby básico 2, onde eu faço a correção co
 
 ### Vídeo da aula
 
-- []()
+- [https://www.youtube.com/watch?v=kGSH0oxHXLs](https://www.youtube.com/watch?v=kGSH0oxHXLs)
 
 ### Exercícios
 

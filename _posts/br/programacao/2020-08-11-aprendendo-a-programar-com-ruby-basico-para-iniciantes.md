@@ -93,11 +93,9 @@ Previsao: 20/Agosto/2020
 
 **5.B. Correção dos exercícios** <br/>
 
-- **Agendado para 27/Agosto/2020**
-
 - **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-5B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-5B-aprendendo-a-programar-com-ruby-basico/)
 
-- **Vídeo**: []()
+- **Vídeo**: [https://www.youtube.com/watch?v=kGSH0oxHXLs](https://www.youtube.com/watch?v=kGSH0oxHXLs)
 
 ## 6. Ruby Basics 3 - Hash
 
