@@ -97,15 +97,15 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **6.A.** <br/>
 
-```ruby
-Previsao: 31/Agosto/2020
-```
+- **Agendado para 31/Agosto/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=2xeoqR7UDNQ](https://www.youtube.com/watch?v=2xeoqR7UDNQ)
 
 **6.B.** <br/>
 
-```ruby
-Previsao: 03/Setembro/2020
-```
+- **Agendado para 03/Setembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=eT7nPsffJhE](https://www.youtube.com/watch?v=eT7nPsffJhE)
 
 ## 7. Ruby Basics 4 - Conditionals
 
