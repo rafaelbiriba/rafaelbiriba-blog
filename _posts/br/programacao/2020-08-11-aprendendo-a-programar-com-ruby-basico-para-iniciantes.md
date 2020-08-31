@@ -111,9 +111,9 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **7.A.** <br/>
 
-```ruby
-Previsao: 07/Setembro/2020
-```
+- **Agendado para 07/Setembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=ycOHA710R1I](https://www.youtube.com/watch?v=ycOHA710R1I)
 
 **7.B.** <br/>
 
