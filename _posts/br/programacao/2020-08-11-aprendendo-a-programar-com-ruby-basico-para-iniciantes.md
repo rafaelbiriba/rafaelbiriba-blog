@@ -95,9 +95,9 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 6. Ruby Basics 3 - Hash
 
-**6.A.** <br/>
+**6.A. Aula** <br/>
 
-- **Agendado para 31/Agosto/2020**
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-6A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-6A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=2xeoqR7UDNQ](https://www.youtube.com/watch?v=2xeoqR7UDNQ)
 
