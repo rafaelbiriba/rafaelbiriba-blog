@@ -109,17 +109,19 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 7. Ruby Basics 4 - Conditionals
 
-**7.A.** <br/>
+**7.A. Aula** <br/>
 
 - **Agendado para 07/Setembro/2020**
 
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-7A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-7A-aprendendo-a-programar-com-ruby-basico/)
+
 - **Vídeo**: [https://www.youtube.com/watch?v=ycOHA710R1I](https://www.youtube.com/watch?v=ycOHA710R1I)
 
-**7.B.** <br/>
+**7.B. Correção dos exercícios** <br/>
 
-```ruby
-Previsao: 10/Setembro/2020
-```
+- **Agendado para 10/Setembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=jpwRIFbwV60](https://www.youtube.com/watch?v=jpwRIFbwV60)
 
 ## 8. Ruby Basics 5 - Each
 
