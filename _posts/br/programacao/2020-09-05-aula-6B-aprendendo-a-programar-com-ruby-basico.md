@@ -30,7 +30,7 @@ Essa é a terceira parte da aula de ruby básico 3, onde eu faço a correção c
 
 ### Vídeo da aula
 
-- []()
+- [https://www.youtube.com/watch?v=eT7nPsffJhE](https://www.youtube.com/watch?v=eT7nPsffJhE)
 
 ### Exercícios
 

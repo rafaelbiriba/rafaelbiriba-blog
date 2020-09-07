@@ -31,7 +31,7 @@ Não deixe de tentar resolver os exercícios da aula e investir algum tempo estu
 
 ### Vídeo da aula
 
-- []()
+- [https://www.youtube.com/watch?v=ycOHA710R1I](https://www.youtube.com/watch?v=ycOHA710R1I)
 
 ### Conteúdo da aula
 
