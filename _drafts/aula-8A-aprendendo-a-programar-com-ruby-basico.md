@@ -162,7 +162,7 @@ DICA: Você talvez precise criar uma variável `soma` com o valor inicial zero, 
 Utilizando o código com a variável abaixo:
 
 ```ruby
-agenda = [{nome: "Rafael", telefone: "5566"}, {nome: "Rodolfo", telefone: "9988"} , {nome: "Romário", telefone: "2299"}]
+agenda = [{nome: "Rafael", telefone: "5566"}, {nome: "Rodolfo", telefone: "9988"}, {nome: "Romário", telefone: "2299"}]
 procurar_por = "Rodolfo"
 ```
 
