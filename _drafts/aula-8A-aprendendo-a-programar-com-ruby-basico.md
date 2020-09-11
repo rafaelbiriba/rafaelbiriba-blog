@@ -152,6 +152,7 @@ exemplo = {a: 1, b: 2, c: 3, d: 7, e: 9}
 Escreva um programa que calcule e imprima o resultado da soma de `a + c + e` ?
 
 NOTA: Você deve usar o `.each` e `next`
+
 DICA: Você talvez precise criar uma variável `soma` com o valor inicial zero, para ir somando os valores desejados.
 
 ---
