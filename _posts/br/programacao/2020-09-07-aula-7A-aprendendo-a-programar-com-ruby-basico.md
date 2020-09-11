@@ -260,3 +260,7 @@ Formula do IMC: Peso / (Altura metros * Altura metros)
 Imprima o resultado correto do IMC para cada paciente, utilizando o mesmo código, apenas mudando as variáveis.
 
 ---
+
+##### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-7B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-7B-aprendendo-a-programar-com-ruby-basico/)
