@@ -1,15 +1,24 @@
 ---
 layout: post
-title: "Aula 7B - Aprendendo a programar com Ruby: O Básico para iniciantes"
-excerpt: "Material da aula 7B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação."
-category: [br, programacao]
+title: 'Aula 7B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+excerpt: Material da aula 7B do curso aprendendo a programar com ruby, o básico para
+  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
+  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+category:
+- br
+- programacao
 lang: br
-tags: [programação, tecnologia, curso, ruby, iniciantes]
+tags:
+- programação
+- tecnologia
+- curso
+- ruby
+- iniciantes
 comments: true
 share: true
 ads: true
+date: 2020-09-11 11:57 +0200
 ---
-
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-7B.jpg)
 
 > :warning: Material da aula 7.B! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
