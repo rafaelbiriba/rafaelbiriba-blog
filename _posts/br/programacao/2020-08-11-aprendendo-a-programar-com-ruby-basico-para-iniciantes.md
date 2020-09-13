@@ -125,15 +125,15 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **8.A.** <br/>
 
-```ruby
-Previsao: 14/Setembro/2020
-```
+- **Vídeo**: [https://www.youtube.com/watch?v=ZBGkbodOFn0](https://www.youtube.com/watch?v=ZBGkbodOFn0)
+
+- **Agendado para: 14/Setembro/2020**
 
 **8.B.** <br/>
 
-```ruby
-Previsao: 17/Setembro/2020
-```
+- **Vídeo**: [https://www.youtube.com/watch?v=CzJfntx-NSQ](https://www.youtube.com/watch?v=CzJfntx-NSQ)
+
+- **Agendado para: 17/Setembro/2020**
 
 ## 9. Ruby Basics 6 - Times and Range
 
