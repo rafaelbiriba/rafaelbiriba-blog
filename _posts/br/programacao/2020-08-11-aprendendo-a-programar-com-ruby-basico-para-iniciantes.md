@@ -123,11 +123,11 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 8. Ruby Basics 5 - Each
 
-**8.A.** <br/>
+**8.A. Aula** <br/>
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-8A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-8A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=ZBGkbodOFn0](https://www.youtube.com/watch?v=ZBGkbodOFn0)
-
-- **Agendado para: 14/Setembro/2020**
 
 **8.B.** <br/>
 
