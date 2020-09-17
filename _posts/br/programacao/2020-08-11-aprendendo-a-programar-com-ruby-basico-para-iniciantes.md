@@ -67,13 +67,13 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 4. Ruby Basics 1
 
-**4.A.**: Aula + Exercícios<br/>
+**4.A. Aula**<br/>
 
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=A0zfpcbSFTc](https://www.youtube.com/watch?v=A0zfpcbSFTc)
 
-**4.B.**: Correção dos exercícios<br/>
+**4.B. Correção dos exercícios**<br/>
 
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-4B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-4B-aprendendo-a-programar-com-ruby-basico/)
 
@@ -129,11 +129,11 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 - **Vídeo**: [https://www.youtube.com/watch?v=ZBGkbodOFn0](https://www.youtube.com/watch?v=ZBGkbodOFn0)
 
-**8.B.** <br/>
+**8.B. Correção dos exercícios** <br/>
+
+- **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/aula-8B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-8B-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=CzJfntx-NSQ](https://www.youtube.com/watch?v=CzJfntx-NSQ)
-
-- **Agendado para: 17/Setembro/2020**
 
 ## 9. Ruby Basics 6 - Times and Range
 

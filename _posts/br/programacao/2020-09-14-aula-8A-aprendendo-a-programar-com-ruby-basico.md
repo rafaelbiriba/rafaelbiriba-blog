@@ -195,3 +195,7 @@ Considerando as variáveis acima, escreva um programa que imprima em linhas dife
 NOTA: Você deve usar o `.each`
 
 ---
+
+##### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-8B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-8B-aprendendo-a-programar-com-ruby-basico/)
