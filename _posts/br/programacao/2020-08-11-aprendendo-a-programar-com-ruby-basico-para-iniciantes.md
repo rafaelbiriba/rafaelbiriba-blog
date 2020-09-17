@@ -139,15 +139,15 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **9.A.** <br/>
 
-```ruby
-Previsao: 21/Setembro/2020
-```
+- **Agendado para 21/Setembro/2020**:
+
+- **Vídeo**: [https://www.youtube.com/watch?v=knhLvJ0MbaE](https://www.youtube.com/watch?v=knhLvJ0MbaE)
 
 **9.B.** <br/>
 
-```ruby
-Previsao: 24/Setembro/2020
-```
+- **Agendado para 24/Setembro/2020**:
+
+- **Vídeo**: [https://www.youtube.com/watch?v=3ELQeKogB_c](https://www.youtube.com/watch?v=3ELQeKogB_c)
 
 ## 10. Ruby Basics 7 - While
 
