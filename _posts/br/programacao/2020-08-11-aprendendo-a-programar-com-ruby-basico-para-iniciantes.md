@@ -137,9 +137,9 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 9. Ruby Basics 6 - Times and Range
 
-**9.A.** <br/>
+**9.A. Aula** <br/>
 
-- **Agendado para 21/Setembro/2020**:
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-9A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-9A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=knhLvJ0MbaE](https://www.youtube.com/watch?v=knhLvJ0MbaE)
 
