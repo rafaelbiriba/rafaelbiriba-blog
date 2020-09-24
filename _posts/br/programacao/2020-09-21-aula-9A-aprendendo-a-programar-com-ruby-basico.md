@@ -312,3 +312,9 @@ Considerando uma sequência de 1 até 3, veja o exemplo abaixo:
 ```
 
 Escreva um código que imprima ,linha a linha, uma sequência de 1 até 10. Entre cada número da sequência, imprima o seu nome a quantidade de vezes referente ao número que você imprimiu. (Veja o exemplo acima e faça o mesmo de 1 até 10)
+
+---
+
+### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-9B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-9B-aprendendo-a-programar-com-ruby-basico/)

@@ -143,9 +143,9 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 - **Vídeo**: [https://www.youtube.com/watch?v=knhLvJ0MbaE](https://www.youtube.com/watch?v=knhLvJ0MbaE)
 
-**9.B.** <br/>
+**9.B. Correção dos exercícios** <br/>
 
-- **Agendado para 24/Setembro/2020**:
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-9B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-9B-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=3ELQeKogB_c](https://www.youtube.com/watch?v=3ELQeKogB_c)
 
