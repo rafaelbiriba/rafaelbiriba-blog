@@ -92,7 +92,7 @@ resposta = 1
 
 while true
   total = total * 2
-  if total > 10000000
+  if total > limite
     break
   end
   resposta = resposta + 1
