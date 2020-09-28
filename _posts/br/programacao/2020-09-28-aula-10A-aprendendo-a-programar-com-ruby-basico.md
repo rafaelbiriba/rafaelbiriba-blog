@@ -1,15 +1,24 @@
 ---
 layout: post
-title: "Aula 10A - Aprendendo a programar com Ruby: O Básico para iniciantes"
-excerpt: "Material da aula 10A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação."
-category: [br, programacao]
+title: 'Aula 10A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+excerpt: Material da aula 10A do curso aprendendo a programar com ruby, o básico para
+  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
+  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+category:
+- br
+- programacao
 lang: br
-tags: [programação, tecnologia, curso, ruby, iniciantes]
+tags:
+- programação
+- tecnologia
+- curso
+- ruby
+- iniciantes
 comments: true
 share: true
 ads: true
+date: 2020-09-28 09:29 +0200
 ---
-
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-10A.jpg)
 
 > :warning: Material da aula 10.A! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
@@ -21,7 +30,7 @@ Não deixe de tentar resolver os exercícios da aula e investir algum tempo estu
 
 ### Vídeo da aula
 
-- []()
+- [https://www.youtube.com/watch?v=NBrISKR9PHc](https://www.youtube.com/watch?v=NBrISKR9PHc)
 
 ### Conteúdo da aula
 
