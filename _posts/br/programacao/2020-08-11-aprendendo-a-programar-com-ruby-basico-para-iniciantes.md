@@ -151,11 +151,13 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 10. Ruby Basics 7 - While
 
-**10.A.** <br/>
+**10.A. Aula** <br/>
 
-```ruby
-Previsao: 28/Setembro/2020
-```
+- **Agendado para 28/Setembro/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-10A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-10A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: []()
 
 **10.B.** <br/>
 
