@@ -202,3 +202,7 @@ Quando o usuário descobrir a senha, imprima `Senha descoberta!`.
 DICA: Utilize `while` e `gets`
 
 ---
+
+##### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-10B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-10B-aprendendo-a-programar-com-ruby-basico/)
