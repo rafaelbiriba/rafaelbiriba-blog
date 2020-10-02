@@ -167,43 +167,42 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 11. Thinking like programer
 
-```ruby
-Previsao: 05/Outubro/2020
-```
+- **Agendado para 08/Outubro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=owpaMfE78C0](https://www.youtube.com/watch?v=owpaMfE78C0)
 
 ## 12. Revisão de conteúdo e exercícios
 
 **12.A.** <br/>
 
 ```ruby
-Previsao: 08/Outubro/2020
+Previsao: 12/Outubro/2020
 ```
 
 **12.B.** <br/>
 
 ```ruby
-Previsao: 12/Outubro/2020
+Previsao: 15/Outubro/2020
 ```
 
 ## 13. Ruby Methods
 
 ```ruby
-Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Outubro)
+Previsao: 16/Novembro/2020
 ```
 
 ## 14. Code Patterns
 
 ```ruby
 Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Outubro)
+Previsao: 19/Novembro/2020
 ```
 
 ## 15. Ruby Classes and Objects 1
 
 ```ruby
 Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Outubro)
+Previsao: (possivelmente Novembro)
 ```
 
 ## 16. Ruby Classes and Objects 2
@@ -217,19 +216,19 @@ Previsao: (possivelmente Novembro)
 
 ```ruby
 Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Novembro)
+Previsao: (possivelmente Dezembro)
 ```
 
 ## 18. Revisão de conteúdo e exercícios
 
 ```ruby
 Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Novembro)
+Previsao: (possivelmente Dezembro)
 ```
 
 ## 19. Última aula?
 
 ```ruby
 Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Novembro)
+Previsao: (possivelmente Dezembro)
 ```
