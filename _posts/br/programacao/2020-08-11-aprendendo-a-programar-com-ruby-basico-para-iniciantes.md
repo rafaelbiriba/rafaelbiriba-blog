@@ -27,6 +27,10 @@ Aqui você pode conferir os links das aulas já disponíveis e o meu planejament
 O curso ainda está em processo de gravação. As aulas são liberadas aos poucos. Isso também significa que o planejamento pode mudar. Novas aulas podem ser adicionadas ou removidas sem aviso prévio. Bem como as previsões de lançamento podem ser estendidas ou encurtadas.
 > :warning: **Esta página será sempre atualizada com novos links ou mudança no planejamento! [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/)** :warning:
 
+## Youtube Playlist
+
+- [https://www.youtube.com/playlist?list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H](https://www.youtube.com/playlist?list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H)
+
 ## Introdução
 
 - **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/introducao-aprendendo-a-programar-com-ruby-basico-para-iniciantes/](/blog/br/programacao/introducao-aprendendo-a-programar-com-ruby-basico-para-iniciantes/)
