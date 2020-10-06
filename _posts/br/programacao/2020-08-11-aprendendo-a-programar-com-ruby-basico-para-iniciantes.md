@@ -175,21 +175,19 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **12.A.** <br/>
 
-```ruby
-Previsao: 12/Outubro/2020
-```
+- **Agendado para 12/Outubro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=k8wFf--9u1c](https://www.youtube.com/watch?v=k8wFf--9u1c)
 
 **12.B.** <br/>
 
-```ruby
-Previsao: 15/Outubro/2020
-```
+- **Agendado para 15/Outubro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=9C4O3PC-9TA](https://www.youtube.com/watch?v=9C4O3PC-9TA)
 
 ## 13. Ruby Methods
 
-```ruby
-Previsao: 16/Novembro/2020
-```
+- **Previsão para 16/Novembro/2020**
 
 ## 14. Code Patterns
 
