@@ -175,60 +175,78 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 12. Revisão de conteúdo e exercícios
 
-**12.A.** <br/>
+**12.A. Aula** <br/>
 
 - **Agendado para 12/Outubro/2020**
 
 - **Vídeo**: [https://www.youtube.com/watch?v=k8wFf--9u1c](https://www.youtube.com/watch?v=k8wFf--9u1c)
 
-**12.B.** <br/>
+**12.B. Correção dos exercícios** <br/>
 
 - **Agendado para 15/Outubro/2020**
 
 - **Vídeo**: [https://www.youtube.com/watch?v=9C4O3PC-9TA](https://www.youtube.com/watch?v=9C4O3PC-9TA)
 
-## 13. Ruby Methods
+## 13. Métodos
+
+**13.A. Aula** <br/>
 
 - **Previsão para 16/Novembro/2020**
 
-## 14. Code Patterns
+**13.B. Correção dos exercícios** <br/>
 
-```ruby
-Conteúdo do curso ainda não totalmente definido
-Previsao: 19/Novembro/2020
-```
+- **Previsão para 19/Novembro/2020**
 
-## 15. Ruby Classes and Objects 1
+## 14. Programação Orientada a Objetos
 
-```ruby
-Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Novembro)
-```
+**14.A. Aula** <br/>
 
-## 16. Ruby Classes and Objects 2
+- **Previsão para 23/Novembro/2020**
 
-```ruby
-Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Novembro)
-```
+**14.B. Correção dos exercícios** <br/>
 
-## 17. Ruby Classes and Objects 3
+- **Previsão para 26/Novembro/2020**
 
-```ruby
-Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Dezembro)
-```
+## 15. Classes e Objetos 1
+
+**15.A. Aula** <br/>
+
+- **Previsão para 30/Novembro/2020**
+
+**15.B. Correção dos exercícios** <br/>
+
+- **Previsão para 03/Dezembro/2020**
+
+## 16. Classes e Objetos 2
+
+**16.A. Aula** <br/>
+
+- **Previsão para 07/Dezembro/2020**
+
+**16.B. Correção dos exercícios** <br/>
+
+- **Previsão para 10/Dezembro/2020**
+
+## 17. Blocks, procs e lambdas
+
+**17.A. Aula** <br/>
+
+- **Previsão para 14/Dezembro/2020**
+
+**17.B. Correção dos exercícios** <br/>
+
+- **Previsão para 17/Dezembro/2020**
 
 ## 18. Revisão de conteúdo e exercícios
 
-```ruby
-Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Dezembro)
-```
+**18.A. Aula** <br/>
 
-## 19. Última aula?
+- **Previsão para 21/Dezembro/2020**
 
-```ruby
-Conteúdo do curso ainda não totalmente definido
-Previsao: (possivelmente Dezembro)
-```
+**18.B. Correção dos exercícios** <br/>
+
+- **Previsão para 28/Dezembro/2020**
+
+## 19. Ultima aula? Dicas e próximos passos
+
+- **Previsão para 04/Janeiro/2021**
