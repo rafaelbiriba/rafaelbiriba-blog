@@ -83,6 +83,24 @@ puts calculo
 ```
 
 ```ruby
+# return retorna o valor para a função, também saindo do each
+# (similar ao break, só que nesse caso, um valor é retornado pra função)
+def dentro_de_um_each
+  [1,2,3,4,5,6].each do |numero|
+    puts numero
+    return numero if numero == 3
+  end
+end
+
+variavel = dentro_de_um_each
+# 1
+# 2
+# 3
+puts variavel
+# 3
+```
+
+```ruby
 def metade_da_soma
  valor = 50 + 50
  valor = valor / 2
@@ -209,7 +227,7 @@ puts fatorial(4)
 #### 1.
 Considerando o código abaixo:
 
-```
+```ruby
 def segundos(minutos)
 end
 
@@ -226,7 +244,7 @@ Utilizando métodos, implementar o `exercício 4` da [aula 7A](https://rafaelbir
 
 Considerando o código abaixo:
 
-```
+```ruby
 def imc(peso, altura, nome)
 end
 
@@ -240,7 +258,7 @@ Escreva a função (método) `imc` que calcula o imc de cada paciente e imprime 
 
 Nota: `Formula do IMC: Peso / (Altura metros * Altura metros)`
 
-```
+```ruby
 IMC:
 <18.5 - Abaixo do peso
 18.5 ~ 24.99 - Normal
@@ -251,9 +269,11 @@ IMC:
 ---
 
 #### 3.
+Utilizando métodos, implementar o `exercício 4` da [aula 8A](https://rafaelbiriba.com/blog/br/programacao/aula-8A-aprendendo-a-programar-com-ruby-basico/), calculando o IMC de cada paciente.
+
 Considerando o código abaixo:
 
-```
+```ruby
 agenda = [{nome: "Rafael", telefone: "5566"}, {nome: "Rodolfo", telefone: "9988"}, {nome: "Romário", telefone: "2299"}, {nome: "Ana", telefone: "1634"}, {nome: "Rodrigo", telefone: "9533"}]
 
 def procurar_numero(agenda, nome)
