@@ -156,8 +156,8 @@ def calcular_valor_final(valor)
     return valor_com_imposto(valor)
 end
 
-puts calcular_valor_final(50)
-puts calcular_valor_final(15)
+puts calcular_valor_final(50) # Imprime 60
+puts calcular_valor_final(15) # Imprime 15
 ```
 
 ```ruby
@@ -186,6 +186,17 @@ puts_cor("azul") # azul
 puts_cor("vermelho") # ---
 ```
 
+```ruby
+# Recursividade
+
+def fatorial(numero)
+  return 1 if numero == 1
+  numero * fatorial(numero-1)
+end
+
+puts fatorial(4)
+```
+
 ### Links úteis
 
 - []()
@@ -193,5 +204,60 @@ puts_cor("vermelho") # ---
 ### Exercícios
 
 #### 1.
+Considerando o código abaixo:
+
+```
+def segundos(minutos)
+end
+
+puts segundos(10) # Imprime 600
+puts segundos(75) # Imprime 750
+```
+
+O método segundos recebe um valor em minutos como parametro e retorna esse valor em segundos. Escreva o método `segudos` de forma que ele retorne os valores corretamente, como representado acima.
 
 ---
+
+#### 2.
+Utilizando métodos, implementar o `exercício 4` da [aula 7A](https://rafaelbiriba.com/blog/br/programacao/aula-7A-aprendendo-a-programar-com-ruby-basico/), calculando o IMC de cada paciente.
+
+Considerando o código abaixo:
+
+```
+def imc(peso, altura, nome)
+end
+
+imc(200.2, 1.75, "Mario")
+imc(65.6, 1.65, "Roberta")
+imc(79.7, 1.77, "Pedro")
+imc(35.3, 1.60, "Ana")
+```
+
+Escreva a função (método) `imc` que calcula o imc de cada paciente e imprime o resultado.
+
+Nota: `Formula do IMC: Peso / (Altura metros * Altura metros)`
+
+```
+IMC:
+<18.5 - Abaixo do peso
+18.5 ~ 24.99 - Normal
+> 25 - Acima do peso
+> 30 - Obeso
+```
+
+---
+
+#### 3.
+Considerando o código abaixo:
+
+```
+agenda = [{nome: "Rafael", telefone: "5566"}, {nome: "Rodolfo", telefone: "9988"}, {nome: "Romário", telefone: "2299"}, {nome: "Ana", telefone: "1634"}, {nome: "Rodrigo", telefone: "9533"}]
+
+def procurar_numero(agenda, nome)
+end
+
+puts procurar_numero(agenda, "Rodrigo")
+puts procurar_numero(agenda, "Ana")
+```
+
+Escreva uma função/método `procurar_numero` que receba a agenda telefônica e o nome como parâmetro, e retorne o telefone.
