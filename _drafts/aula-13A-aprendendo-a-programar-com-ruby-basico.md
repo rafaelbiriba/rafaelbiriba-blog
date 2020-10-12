@@ -220,7 +220,9 @@ puts fatorial(4)
 
 ### Links úteis
 
-- []()
+- [https://ruby-doc.org/core-2.7.0/doc/syntax/methods_rdoc.html](https://ruby-doc.org/core-2.7.0/doc/syntax/methods_rdoc.html)
+
+- [https://ruby-doc.org/core-2.7.0/doc/syntax/calling_methods_rdoc.html](https://ruby-doc.org/core-2.7.0/doc/syntax/calling_methods_rdoc.html)
 
 ### Exercícios
 
