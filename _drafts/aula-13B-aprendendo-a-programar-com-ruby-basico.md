@@ -40,3 +40,45 @@ puts segundos(75) # Imprime 4500
 ```
 
 ---
+
+#### 2.
+
+```ruby
+def imc(peso, altura, nome)
+  imc = peso / (altura * altura)
+  if imc > 30
+    puts "#{nome} está obeso(a)"
+  elsif imc > 25
+    puts "#{nome} está acima do peso(a)"
+  elsif imc > 18.5 and imc < 24.99
+    puts "#{nome} está normal"
+  elsif imc < 18.5
+    puts "#{nome} está abaixo do peso"
+  else
+    puts "Algo está errado"
+  end
+end
+
+imc(200.2, 1.75, "Mario")
+imc(65.6, 1.65, "Roberta")
+imc(79.7, 1.77, "Pedro")
+imc(35.3, 1.60, "Ana")
+```
+---
+
+#### 3.
+
+```ruby
+agenda = [{nome: "Rafael", telefone: "5566"}, {nome: "Rodolfo", telefone: "9988"}, {nome: "Romário", telefone: "2299"}, {nome: "Ana", telefone: "1634"}, {nome: "Rodrigo", telefone: "9533"}]
+
+def procurar_numero(agenda, nome)
+  agenda.each do |contato|
+    puts contato
+    return contato[:telefone] if contato[:nome] == nome
+    end
+  end
+end
+
+puts procurar_numero(agenda, "Rodrigo")
+puts procurar_numero(agenda, "Ana")
+```
