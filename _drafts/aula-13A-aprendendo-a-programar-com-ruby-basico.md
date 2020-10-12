@@ -16,6 +16,9 @@ ads: true
 
 # 13.A. Métodos
 
+Nessa aula eu explico o que são métodos/funções no ruby e trago alguns exemplo de como eles são utilizados.
+Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
+
 ### Vídeo da aula
 
 - []()
