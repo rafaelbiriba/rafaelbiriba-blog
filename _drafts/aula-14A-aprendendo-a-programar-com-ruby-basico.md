@@ -227,6 +227,8 @@ Carro.calculo_abastecimento(245.0) # "Você precisa abastecer 20.416666666666668
 Considerando o código abaixo:
 
 ```ruby
+# Colocar a classe Calculadora aqui em cima!
+
 puts Calculadora.ao_quadrado(3)
 ```
 
@@ -236,6 +238,8 @@ Criar uma classe chamada `Calculadora` e um método chamado `ao_quadrado`, que c
 Considerando o código abaixo:
 
 ```ruby
+# Colocar a classe Carro aqui em cima!
+
   carro1 = CarroAzul.new
   carro2 = CarroPreto.new
   carro3 = CarroBranco.new
@@ -257,6 +261,8 @@ Utilizando classes, implementar o `exercício 2` da [aula 13A](https://rafaelbir
 Considerando o código abaixo:
 
 ```ruby
+# Colocar a classe Imc aqui em cima!
+
 Imc.calcular(200.2, 1.75, "Mario")
 Imc.calcular(200.2, 1.75, "Mario")
 Imc.calcular(65.6, 1.65, "Roberta")
@@ -291,6 +297,8 @@ Os dados são:
 Considerando o código abaixo:
 
 ```ruby
+# Colocar a classe Agenda aqui em cima!
+
 puts Agenda.dados
 puts Agenda.procurar_numero("Rodrigo")
 puts Agenda.procurar_numero("Ana")
