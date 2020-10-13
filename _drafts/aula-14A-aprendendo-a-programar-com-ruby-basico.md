@@ -224,8 +224,34 @@ Carro.calculo_abastecimento(245.0) # "Você precisa abastecer 20.416666666666668
 ### Exercícios
 
 #### 1.
+Considerando o código abaixo:
+
+```ruby
+puts Calculadora.ao_quadrado(3)
+```
+
+Criar uma classe chamada `Calculadora` e um método chamado `ao_quadrado`, que calcule o valor quadrado de um número.
 
 #### 2.
+Considerando o código abaixo:
+
+```ruby
+  carro1 = CarroAzul.new
+  carro2 = CarroPreto.new
+  carro3 = CarroBranco.new
+
+  [carro1, carro2, carro3].each do |carro|
+    puts carro.cor
+  end
+
+  # Azul
+  # Preto
+  # Branco
+```
+
+Implemente 3 diferentes classes `CarroAzul`, `CarroPreto`, `CarroBranco`. Essas 3 classes, vão ter o mesmo método de instância `cor` retornando a respectiva cor.
+
+#### 3.
 Utilizando classes, implementar o `exercício 2` da [aula 13A](https://rafaelbiriba.com/blog/br/programacao/aula-13A-aprendendo-a-programar-com-ruby-basico/), calculando o IMC de cada paciente.
 
 Considerando o código abaixo:
@@ -252,7 +278,7 @@ IMC:
 
 ---
 
-#### 3.
+#### 4.
 Utilizando classes, implementar o `exercício 3` da [aula 13A](https://rafaelbiriba.com/blog/br/programacao/aula-13A-aprendendo-a-programar-com-ruby-basico/), para buscar telefones em um agenda telefonica.
 
 
@@ -273,3 +299,5 @@ puts Agenda.procurar_numero("Ana")
 - `Agenda.dados` deve retornar o array de dados (disponível acima)
 
 - `Agenda.procurar_numero` deve retornar o número de uma pessoa na agenda
+
+---
