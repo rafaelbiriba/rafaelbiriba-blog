@@ -271,7 +271,7 @@ IMC:
 ---
 
 #### 3.
-Utilizando métodos, implementar o `exercício 4` da [aula 8A](https://rafaelbiriba.com/blog/br/programacao/aula-8A-aprendendo-a-programar-com-ruby-basico/), calculando o IMC de cada paciente.
+Utilizando métodos, implementar o `exercício 4` da [aula 8A](https://rafaelbiriba.com/blog/br/programacao/aula-8A-aprendendo-a-programar-com-ruby-basico/), para buscar telefones em um agenda telefônica.
 
 Considerando o código abaixo:
 
