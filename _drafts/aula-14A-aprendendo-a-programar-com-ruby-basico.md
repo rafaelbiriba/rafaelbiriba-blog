@@ -79,11 +79,6 @@ nome.object_id # 220
 ```ruby
 class Pizza
 end
-
-
-class Pizza
-  test = 1  # Erro
-end
 ```
 
 ```ruby
