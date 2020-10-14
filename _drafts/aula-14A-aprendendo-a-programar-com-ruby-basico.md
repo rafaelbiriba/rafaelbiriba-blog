@@ -304,3 +304,7 @@ puts Agenda.procurar_numero("Ana")
 - `Agenda.procurar_numero` deve retornar o número de uma pessoa na agenda
 
 ---
+
+### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-14B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-14B-aprendendo-a-programar-com-ruby-basico/)
