@@ -73,7 +73,7 @@ agenda = [{nome: "Rafael", telefone: "5566"}, {nome: "Rodolfo", telefone: "9988"
 
 def procurar_numero(agenda, nome)
   agenda.each do |contato|
-    puts contato
+    # puts contato
     return contato[:telefone] if contato[:nome] == nome
     end
   end
