@@ -40,8 +40,17 @@ Não deixe de tentar resolver os exercícios da aula e investir algum tempo estu
 
 ```ruby
 class Carro
+  @cor = "preto"
+  @modelo = "corsa"
 
+  def tipo
+    "#{@modelo} #{@cor}"
+  end
 end
+
+Carro.tipo # NoMethodError (undefined method `tipo' for Carro:Class)
+
+Carro.new.tipo
 
 ```
 
