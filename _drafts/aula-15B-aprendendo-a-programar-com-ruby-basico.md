@@ -61,17 +61,30 @@ roberto.nome_completo # "Roberto da Silva"
 
 #### 2.
 
-Crie uma classe `Produto` com atributos `nome` e `preco`. Crie também uma classe `Carrinho` com attributos `produtos`. A classe `carrinho` deve implementar um método `total` e calcular quanto custa o total baseado nos produtos que foi adicionado.
-
-Faça as classes no código abaixo, em seguida execute o exercício.
-
 ```ruby
 class Produto
-  # Resolva o exercício aqui
+  attr_reader :nome, :preco
+
+  def initialize(nome, preco)
+    @nome = nome
+    @preco = preco
+  end
 end
 
 class Carrinho
-  # Resolva o exercício aqui
+  attr_accessor :produtos
+
+  def initialize
+    @produtos = []
+  end
+
+  def total
+    total = 0
+    produtos.each do |produto|
+      total += produto.preco
+    end
+    total
+  end
 end
 
 carrinho_compras = Carrinho.new
@@ -86,19 +99,34 @@ carrinho_compras.total # 22
 ---
 
 #### 3.
-Criar uma classe `Pessoa` e guardar o nome e telefone de cada pessoa.
-
-Criar uma classe `Agenda` para armazenar telefones. Criar um método para adicionar pessoas e um método para buscar e retornar o telefone de alguma pessoa.
-
-Faça as classes no código abaixo, em seguida execute o exercício.
 
 ```ruby
 class Pessoa
-  # Resolva o exercício aqui
+  attr_reader :nome, :telefone
+
+  def initialize(nome, telefone)
+    @nome = nome
+    @telefone = telefone
+  end
 end
 
 class Agenda
-  # Resolva o exercício aqui
+  attr_accessor :lista
+
+  def initialize
+    @lista = []
+  end
+
+  def adicionar(pessoa)
+    @lista << pessoa
+  end
+
+  def buscar(nome)
+    @lista.each do |pessoa|
+      return pessoa.telefone if pessoa.nome == nome
+    end
+    ""
+  end
 end
 
 minha_agenda = Agenda.new
@@ -113,13 +141,15 @@ minha_agenda.buscar("Alan") # ""
 ---
 
 #### 4. DESAFIO
-O desafio é sobre lista ligada. Crie uma classe `Pessoa` e a pessoa tem os atributos `nome` e `best_friend` (que é uma `Pessoa`).
-
-Faça a classe no código abaixo, em seguida execute o exercício.
 
 ```ruby
 class Pessoa
-  # Resolva o exercício aqui
+  attr_accessor :best_friend
+  attr_reader :nome
+
+  def initialize(nome)
+    @nome = nome
+  end
 end
 
 mario = Pessoa.new("Mario")
