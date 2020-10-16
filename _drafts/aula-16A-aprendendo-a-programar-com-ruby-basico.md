@@ -69,7 +69,7 @@ meu_carro.rodas # 4
 meu_carro.nome # "corsinha"
 ```
 
-#### Override - WIP
+#### Override
 
 ```ruby
 class Pizza
@@ -98,15 +98,113 @@ class Pizza
 end
 
 class Mussarela < Pizza
+
+  # Override
   def initialize
-    @sabor = "mussarela"
-    @preco = 20
   end
 end
 
 pizza1 = Mussarela.new
+pizza1.sabor # nil
+pizza1.preco # nil
+# Sabor e preco vazios, pois o método de initialize foi sobrescrito e com isso não está inicializando as variáveis
+
+#########################
+
+class Pizza
+  attr_reader :sabor, :preco
+
+  def initialize(sabor, preco)
+    @sabor = sabor
+    @preco = preco
+  end
+end
+
+class Mussarela < Pizza
+
+  # Override
+  def initialize(preco)
+    @sabor = "mussarela"
+    @preco = preco
+  end
+end
+
+pizza1 = Mussarela.new(35)
 pizza1.sabor # mussarela
-pizza1.preco # 20
+pizza1.preco # 35
+```
+
+#### Super
+
+```ruby
+class Pizza
+  attr_reader :sabor, :preco
+
+  def initialize(sabor, preco)
+    @sabor = sabor
+    @preco = preco
+  end
+end
+
+class Mussarela < Pizza
+  def initialize(preco)
+    super("mussarela", preco)
+  end
+end
+
+pizza1 = Mussarela.new(35)
+pizza1.sabor # mussarela
+pizza1.preco # 35
+```
+
+```ruby
+class PizzaBasica
+  def self.preco
+    35
+  end
+end
+
+class PizzaCalabreza < PizzaBasica
+  def self.preco
+    # super chama o método preco da classe acima "PizzaBasica" e retorna o valor
+    super + 5
+  end
+end
+
+PizzaBasica.preco # 35
+
+PizzaCalabreza.preco # 40
+```
+
+#### require e require_relative
+
+É uma `best practice` do ruby de criar uma classe em arquivos ruby separados. Isso contribui para que o código fique organizado.
+
+Utilizando `require` é possível espalhar o código em arquivos diferentes ruby, e no topo de cada arquivo, podemos dar require daquele arquivo que precisamos.
+
+- `require`: Usado para bibliotecas (`gems`) ou para requerer arquivos. Necessário passar o caminho completo, por exemplo: `require 'C:/Projetos/Ruby/minha_pasta/meu_arquivo.rb'`
+
+- `require_relative`: Uma forma alternativa para requerer um arquivo local, não precisando passar o caminho completo. Se o arquivo estiver na mesma pasta, basta fazer `require_relative 'meu_arquivo.rb'`
+
+```ruby
+# carro.rb
+
+class Carro
+  def self.rodas
+    4
+  end
+end
+```
+
+```ruby
+# fusca.rb
+
+require_relative "carro.rb"
+
+class Fusca < Carro
+end
+
+puts Fusca.rodas
 ```
 
 ### Links úteis
