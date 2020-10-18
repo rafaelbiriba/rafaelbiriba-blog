@@ -72,6 +72,37 @@ meu_carro.nome # "corsinha"
 #### Override
 
 ```ruby
+class Animal
+  def self.som
+    "Grrrr"
+  end
+end
+
+class Cachorro < Animal
+end
+
+Animal.som # Grrrr
+Cachorro.som # Grrrr
+
+##################################
+
+class Animal
+  def self.som
+    "Grrrr"
+  end
+end
+
+class Cachorro < Animal
+  def self.som
+    "Au au"
+  end
+end
+
+Animal.som # Grrrr
+Cachorro.som # Au Au
+```
+
+```ruby
 class Pizza
   attr_reader :sabor, :preco
 
@@ -216,5 +247,84 @@ puts Fusca.rodas
 ### Exercícios
 
 #### 1.
+Considerando o código abaixo:
+
+```ruby
+class Bicicleta
+  def rodas
+    2
+  end
+
+  def motorizada
+    false
+  end
+end
+```
+
+Escreva uma classe `BicicletaEletrica` que extende `Bicicleta`, sobrescrevendo o método `motorizada` para retornar `true`, de forma que o código abaixo funcine com a nova classe BicicletaEletrica.
+
+```ruby
+minha_bike_normal = Bicicleta.new
+minha_bike_normal.rodas # 2
+minha_bike_normal.motorizada # false
+
+minha_bike = BicicletaEletrica.new
+minha_bike.rodas # 2
+minha_bike.motorizada # true
+```
+
+---
+
+#### 2.
+
+Considerando o código abaixo:
+
+```ruby
+class Carro
+  def lugares
+    2
+  end
+
+  def combustivel
+    "gasolina"
+  end
+end
+```
+
+Implemente uma classe `CorsaFlex` que extende de carro. O `CorsaFlex` possui 4 lugares (ao invés de 2). E funciona com `gasolina` e `alcool`.
+
+NOTA: Utilizar `super` nesse exercício.
+
+```ruby
+carro = CorsaFlex.new
+carro.lugares # 4
+carro.combustivel # gasolina e alcool
+```
+
+---
+
+# 3.
+
+Considerando o arquivo `circulo.rb` com o código abaixo:
+
+```ruby
+# arquivo circulo.rb
+class Circulo
+  def self.area_circulo(raio)
+    3.1416*raio*raio
+  end
+end
+```
+
+Crie um arquivo `pizza.rb` e escreva uma classe `Pizza` (ela não extende nenhuma classe). Você deve recever o tamanho da pizza (diâmetro) na inicialização, e criar um método `area` para retornar a área da pizza em `cm2`
+
+NOTA: `Circulo.area_circulo` recebe `raio` que é `metade do diâmetro`
+
+DICA: Não deixe de requerer o arquivo `circulo.rb` para poder utilizar o método `area_circulo`.
+
+```ruby
+pizza = Pizza.new(20)
+pizza.area # 314.1592653589793 cm2
+```
 
 ---
