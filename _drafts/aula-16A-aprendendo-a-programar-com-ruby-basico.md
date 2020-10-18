@@ -324,7 +324,7 @@ DICA: Não deixe de requerer o arquivo `circulo.rb` para poder utilizar o métod
 
 ```ruby
 pizza = Pizza.new(20)
-pizza.area # 314.1592653589793 cm2
+pizza.area # 314.16 cm2
 ```
 
 ---
