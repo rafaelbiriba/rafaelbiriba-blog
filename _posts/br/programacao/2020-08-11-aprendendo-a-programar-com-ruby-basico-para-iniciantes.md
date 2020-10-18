@@ -227,7 +227,7 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 - **Previsão para 10/Dezembro/2020**
 
-## 17. Blocks, procs e lambdas
+## 17. Revisão de conteúdo e exercícios
 
 **17.A. Aula** <br/>
 
@@ -237,16 +237,8 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 - **Previsão para 17/Dezembro/2020**
 
-## 18. Revisão de conteúdo e exercícios
-
-**18.A. Aula** <br/>
+## 18. Ultima aula? Dicas e próximos passos
 
 - **Previsão para 21/Dezembro/2020**
 
-**18.B. Correção dos exercícios** <br/>
-
-- **Previsão para 28/Dezembro/2020**
-
-## 19. Ultima aula? Dicas e próximos passos
-
-- **Previsão para 04/Janeiro/2021**
+---
