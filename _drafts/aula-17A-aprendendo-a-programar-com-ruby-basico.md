@@ -232,4 +232,9 @@ DICA 4: `Array.new(6)` cria um array vazio com `6` posições `[nil, nil, nil, n
   # ["c", "a", "v", "a", "l", "o"]
   # Você ganhou!
 ```
+
 ---
+
+### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-17B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-17B-aprendendo-a-programar-com-ruby-basico/)
