@@ -155,12 +155,13 @@ def bom_dia(nome, idioma)
     puts "Good morning #{nome}"
   else
     puts "Idioma não suportado"
+  end
 end
 
-puts bom_dia("Rafael", "Portugues") # Bom dia Rafael
-puts bom_dia("Klaus", "Alemao") # Guten Morgen Klaus
-puts bom_dia("John", "Portugues") # Good morning John
-puts bom_dia("Sofia", "Italiano") # Idioma não suportado
+bom_dia("Rafael", "Portugues") # Bom dia Rafael
+bom_dia("Klaus", "Alemao") # Guten Morgen Klaus
+bom_dia("John", "Portugues") # Good morning John
+bom_dia("Sofia", "Italiano") # Idioma não suportado
 ```
 
 ```ruby
