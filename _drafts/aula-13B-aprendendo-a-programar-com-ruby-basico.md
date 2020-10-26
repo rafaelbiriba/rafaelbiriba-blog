@@ -49,7 +49,7 @@ def imc(peso, altura, nome)
   if imc > 30
     puts "#{nome} está obeso(a)"
   elsif imc > 25
-    puts "#{nome} está acima do peso(a)"
+    puts "#{nome} está acima do peso"
   elsif imc > 18.5 and imc < 24.99
     puts "#{nome} está normal"
   elsif imc < 18.5
