@@ -208,21 +208,6 @@ alcatra.lista_de_opcoes
     attr_accessor :sabor # attr_reader + attr_writer
 
     def initialize(s)
-      sabor = s
-    end
-  end
-
-  pizza = Pizza.new("mussarela")
-  pizza.sabor # nil
-  # attr_accessor e attr_writer não funcionam no initialize
-  # pois a instância não foi totalmente criada ainda
-```
-
-```ruby
-  class Pizza
-    attr_accessor :sabor # attr_reader + attr_writer
-
-    def initialize(s)
       @sabor = s
     end
   end
