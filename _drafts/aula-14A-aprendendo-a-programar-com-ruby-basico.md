@@ -259,7 +259,6 @@ Considerando o código abaixo:
 # Colocar a classe Imc aqui em cima!
 
 Imc.calcular(200.2, 1.75, "Mario")
-Imc.calcular(200.2, 1.75, "Mario")
 Imc.calcular(65.6, 1.65, "Roberta")
 Imc.calcular(79.7, 1.77, "Pedro")
 Imc.calcular(35.3, 1.60, "Ana")
