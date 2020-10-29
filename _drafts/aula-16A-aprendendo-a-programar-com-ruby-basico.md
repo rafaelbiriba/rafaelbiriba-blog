@@ -16,7 +16,8 @@ ads: true
 
 # 16.A. Classes e Objetos 2
 
-Nessa aula eu explico variáveis de instância e de classe, métodos `set` e `get`, attribute accessors e método inicialização de uma classe. É uma aula continuação da aula [15A](https://rafaelbiriba.com/blog/br/programacao/aula-15A-aprendendo-a-programar-com-ruby-basico/)
+Nessa aula eu explico herança de classes, override (sobrescrita de métodos), método super, e a diferença entre require e require_relative.
+É uma aula continuação da aula [15A](https://rafaelbiriba.com/blog/br/programacao/aula-15A-aprendendo-a-programar-com-ruby-basico/)
 
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
