@@ -369,7 +369,7 @@ roberto.nome_completo # "Roberto da Silva"
 
 #### 2.
 
-Crie uma classe `Produto` com atributos `nome` e `preco`. Crie também uma classe `Carrinho` com attributos `produtos`. A classe `carrinho` deve implementar um método `total` e calcular quanto custa o total baseado nos produtos que foi adicionado.
+Crie uma classe `Produto` com atributos `nome` e `preco`. Crie também uma classe `Carrinho` com atributo `produto`. A classe `carrinho` deve implementar um método `total` e calcular quanto custa o total baseado nos produtos que foi adicionado.
 
 Faça as classes no código abaixo, em seguida execute o exercício.
 
