@@ -317,7 +317,7 @@ class Circulo
 end
 ```
 
-Crie um arquivo `pizza.rb` e escreva uma classe `Pizza` (ela não extende nenhuma classe). Você deve recever o tamanho da pizza (diâmetro) na inicialização, e criar um método `area` para retornar a área da pizza em `cm2`
+Crie um arquivo `pizza.rb` e escreva uma classe `Pizza` (ela não extende nenhuma classe). Você deve receber o tamanho da pizza (diâmetro) na inicialização, e criar um método `area` para retornar a área da pizza em `cm2`
 
 NOTA: `Circulo.area_circulo` recebe `raio` que é `metade do diâmetro`
 
