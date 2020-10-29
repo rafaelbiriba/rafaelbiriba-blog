@@ -74,7 +74,7 @@ end
 
 class CorsaFlex < Carro
   def lugares
-    4
+    super + 2
   end
 
   def combustivel
