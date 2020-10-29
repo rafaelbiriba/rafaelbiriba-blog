@@ -122,7 +122,7 @@ class Agenda
   end
 
   def buscar(nome)
-    @lista.each do |pessoa|
+    lista.each do |pessoa|
       return pessoa.telefone if pessoa.nome == nome
     end
     ""
