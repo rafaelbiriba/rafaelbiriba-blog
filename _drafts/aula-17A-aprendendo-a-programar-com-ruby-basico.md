@@ -112,16 +112,19 @@ Segue o código para teste abaixo:
 ```ruby
 carro_preto = Carro.new("corsa", "preto", 32000)
 carro_preto.detalhes # "corsa preto"
+carro_preto.km_rodados # 32000
 carro_preto.precisa_trocar_oleo? # true
 carro_preto.precisa_trocar_pneu? # false
 
 carro_azul = Carro.new("fusca", "azul", 9000)
 carro_azul.detalhes # "fusca azul"
+carro_preto.km_rodados # 9000
 carro_azul.precisa_trocar_oleo? # false
 carro_azul.precisa_trocar_pneu? # false
 
 carro_branco = Carro.new("palio", "branco", 51000)
 carro_branco.detalhes # "palio branco"
+carro_preto.km_rodados # 51000
 carro_branco.precisa_trocar_oleo? # true
 carro_branco.precisa_trocar_pneu? # true
 ```
