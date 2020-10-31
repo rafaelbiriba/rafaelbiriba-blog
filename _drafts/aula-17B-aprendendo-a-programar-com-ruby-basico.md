@@ -46,17 +46,17 @@ class Carro
 
   def precisa_trocar_oleo?
     if km_rodados > 10000
-      true
+      return true
     else
-      false
+      return false
     end
   end
 
   def precisa_trocar_pneu?
     if km_rodados > 50000
-      true
+      return true
     else
-      false
+      return false
     end
   end
 end
