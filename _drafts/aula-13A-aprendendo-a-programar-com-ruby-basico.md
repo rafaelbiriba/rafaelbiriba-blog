@@ -160,7 +160,7 @@ end
 
 bom_dia("Rafael", "Portugues") # Bom dia Rafael
 bom_dia("Klaus", "Alemao") # Guten Morgen Klaus
-bom_dia("John", "Portugues") # Good morning John
+bom_dia("John", "Portugues") # Bom dia John
 bom_dia("Sofia", "Italiano") # Idioma não suportado
 ```
 
