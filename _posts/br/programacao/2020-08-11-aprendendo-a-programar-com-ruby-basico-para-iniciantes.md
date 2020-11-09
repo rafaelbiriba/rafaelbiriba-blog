@@ -12,20 +12,16 @@ ads: true
 
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby.jpg)
 
-> :warning: **Esta página será sempre atualizada com novos links ou mudança no planejamento! [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/)** :warning:
 
 ## O que é o curso? Pra que serve programação?
 
 Para que você possa entender melhor o curso, assista a [aula de introdução](https://www.youtube.com/watch?v=Sjw3S3QzpR4), onde eu explico o curso em si, os motivos pelos quais programação é importante, o mercado de trabalho e por fim a estrutura do curso e divisão dos capítulos das aulas.
 
-## Planejamento das Aulas
+### Aulas Extras
 
-Aqui você pode conferir os links das aulas já disponíveis e o meu planejamento e previsões para publicar novas aulas.
+O fim do curso está previsto para Dezembro/2020, com a última aula de número 18. Nessa última aula, eu compartilho os próximos passos e o meu plano de lançar aulas avulsas no futuro, com assuntos específicos e independentes.
 
-> :star: **Não deixe de se inscrever no meu canal no youtube para receber as notificações dos novos vídeos**: [https://www.youtube.com/rafaelbiriba](https://www.youtube.com/rafaelbiriba)
-
-O curso ainda está em processo de gravação. As aulas são liberadas aos poucos. Isso também significa que o planejamento pode mudar. Novas aulas podem ser adicionadas ou removidas sem aviso prévio. Bem como as previsões de lançamento podem ser estendidas ou encurtadas.
-> :warning: **Esta página será sempre atualizada com novos links ou mudança no planejamento! [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/)** :warning:
+Essas aulas serão lançadas a partir de 2021, e estarão disponíveis no final dessa página, numa seção de **Vídeos extras**.
 
 ## Youtube Playlist
 
@@ -36,7 +32,6 @@ O curso ainda está em processo de gravação. As aulas são liberadas aos pouco
 - **Material da aula**: [https://www.rafaelbiriba.com/blog/br/programacao/introducao-aprendendo-a-programar-com-ruby-basico-para-iniciantes/](/blog/br/programacao/introducao-aprendendo-a-programar-com-ruby-basico-para-iniciantes/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=Sjw3S3QzpR4](https://www.youtube.com/watch?v=Sjw3S3QzpR4)
-
 
 ## 2. Instalação do Ruby
 
@@ -191,33 +186,47 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **13.A. Aula** <br/>
 
-- **Previsão para 16/Novembro/2020**
+- **Agendado para 16/Novembro/2020**
+
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-13A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-13A-aprendendo-a-programar-com-ruby-basico/)
+
+- **Vídeo**: [https://www.youtube.com/watch?v=KxvjULJ-5CE](https://www.youtube.com/watch?v=KxvjULJ-5CE)
 
 **13.B. Correção dos exercícios** <br/>
 
-- **Previsão para 19/Novembro/2020**
+- **Agendado para 19/Novembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=PPLLYvldKkc](https://www.youtube.com/watch?v=PPLLYvldKkc)
 
 ## 14. Programação Orientada a Objetos
 
 **14.A. Aula** <br/>
 
-- **Previsão para 23/Novembro/2020**
+- **Agendado para 23/Novembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=QgClZ7K09M4](https://www.youtube.com/watch?v=QgClZ7K09M4)
 
 **14.B. Correção dos exercícios** <br/>
 
-- **Previsão para 26/Novembro/2020**
+- **Agendado para 26/Novembro/2020**
 
-## 15. Classes e Objetos 1
+- **Vídeo**: [https://www.youtube.com/watch?v=cjWUEQB70e8](https://www.youtube.com/watch?v=cjWUEQB70e8)
+
+## 15. Classes e Objetos - Parte 1
 
 **15.A. Aula** <br/>
 
-- **Previsão para 30/Novembro/2020**
+- **Agendado para 30/Novembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=VtR3iF_52JI](https://www.youtube.com/watch?v=VtR3iF_52JI)
 
 **15.B. Correção dos exercícios** <br/>
 
-- **Previsão para 03/Dezembro/2020**
+- **Agendado para 03/Dezembro/2020**
 
-## 16. Classes e Objetos 2
+- **Vídeo**: [https://www.youtube.com/watch?v=CC78dLH4C3M](https://www.youtube.com/watch?v=CC78dLH4C3M)
+
+## 16. Classes e Objetos - Parte 2
 
 **16.A. Aula** <br/>
 
