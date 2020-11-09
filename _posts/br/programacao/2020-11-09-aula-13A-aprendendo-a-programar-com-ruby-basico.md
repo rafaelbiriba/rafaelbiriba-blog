@@ -297,3 +297,9 @@ puts procurar_numero(agenda, "Ana")
 ```
 
 Escreva uma função/método `procurar_numero` que receba a agenda telefônica e o nome como parâmetro, e retorne o telefone.
+
+---
+
+### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-13B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-13B-aprendendo-a-programar-com-ruby-basico/)
