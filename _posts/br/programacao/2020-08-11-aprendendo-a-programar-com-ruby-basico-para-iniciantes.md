@@ -196,6 +196,8 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 - **Agendado para 19/Novembro/2020**
 
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-13B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-13B-aprendendo-a-programar-com-ruby-basico/)
+
 - **Vídeo**: [https://www.youtube.com/watch?v=PPLLYvldKkc](https://www.youtube.com/watch?v=PPLLYvldKkc)
 
 ## 14. Programação Orientada a Objetos
