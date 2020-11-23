@@ -186,15 +186,11 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **13.A. Aula** <br/>
 
-- **Agendado para 16/Novembro/2020**
-
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-13A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-13A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=KxvjULJ-5CE](https://www.youtube.com/watch?v=KxvjULJ-5CE)
 
 **13.B. Correção dos exercícios** <br/>
-
-- **Agendado para 19/Novembro/2020**
 
 - **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-13B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-13B-aprendendo-a-programar-com-ruby-basico/)
 
@@ -204,7 +200,7 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **14.A. Aula** <br/>
 
-- **Agendado para 23/Novembro/2020**
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-14A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-14A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=QgClZ7K09M4](https://www.youtube.com/watch?v=QgClZ7K09M4)
 
