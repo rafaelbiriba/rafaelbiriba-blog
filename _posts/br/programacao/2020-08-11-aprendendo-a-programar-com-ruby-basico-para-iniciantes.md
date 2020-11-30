@@ -214,7 +214,7 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **15.A. Aula** <br/>
 
-- **Agendado para 30/Novembro/2020**
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-15A-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-15A-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=VtR3iF_52JI](https://www.youtube.com/watch?v=VtR3iF_52JI)
 
