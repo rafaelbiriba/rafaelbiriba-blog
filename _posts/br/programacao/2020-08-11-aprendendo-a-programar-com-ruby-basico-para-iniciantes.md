@@ -228,24 +228,34 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 **16.A. Aula** <br/>
 
-- **Previsão para 07/Dezembro/2020**
+- **Agendado para 07/Dezembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=ERGFQQHFuTo](https://www.youtube.com/watch?v=ERGFQQHFuTo)
 
 **16.B. Correção dos exercícios** <br/>
 
-- **Previsão para 10/Dezembro/2020**
+- **Agendado para 10/Dezembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=tigHXHxaoCE](https://www.youtube.com/watch?v=tigHXHxaoCE)
 
 ## 17. Revisão de conteúdo e exercícios
 
 **17.A. Aula** <br/>
 
-- **Previsão para 14/Dezembro/2020**
+- **Agendado para 14/Dezembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=JUvdZejWQl8](https://www.youtube.com/watch?v=JUvdZejWQl8)
 
 **17.B. Correção dos exercícios** <br/>
 
-- **Previsão para 17/Dezembro/2020**
+- **Agendado para 17/Dezembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=WHKzWvG_vgM](https://www.youtube.com/watch?v=WHKzWvG_vgM)
 
 ## 18. Ultima aula? Dicas e próximos passos
 
-- **Previsão para 21/Dezembro/2020**
+- **Agendado para 21/Dezembro/2020**
+
+- **Vídeo**: [https://www.youtube.com/watch?v=M2DkwS1QQNc](https://www.youtube.com/watch?v=M2DkwS1QQNc)
 
 ---
