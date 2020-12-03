@@ -457,3 +457,7 @@ mario.best_friend.best_friend.best_friend.best_friend.best_friend.nome #Ronaldo
 ```
 
 ---
+
+### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-15B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-15B-aprendendo-a-programar-com-ruby-basico/)
