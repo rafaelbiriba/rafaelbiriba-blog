@@ -338,3 +338,7 @@ pizza.area # 314.16 cm2
 ```
 
 ---
+
+### Correção dos exercícios
+
+- [https://rafaelbiriba.com/blog/br/programacao/aula-16B-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-16B-aprendendo-a-programar-com-ruby-basico/)
