@@ -29,11 +29,11 @@ When you sign up to Wolt simply add a Wolt promo code to get 6€ off your first
 
 The 6€ Wolt gift code needs to be added in your account under the menu "Enter promo code" before you make your first order.
 
-The Wolt promo code of 6€ is valid for the following cities : Aarhus, Budapest, Copenhagen, Espoo, Gävle, Gdansk, Helsinki, Jyvaskyla, Kaunas, Klaipeda, Kuopio, Lahti, Linköping, Lyngby-Gentofte, Norrkoping, Odense, Orebro, Oulu, Prague, Riga, Stockholm, Tallinn, Tampere, Tartu, Tbilisi, Tikkurila, Trondheim, Turku, Vaasa, Vasteras, Vilnius
+Wolt operates in 18 countries and over 60 cities, including Tampere, Turku, Tallinn, Stockholm, Berlin, Vilnius, Copenhagen, Oslo, Prague, Brno, Belgrade, Baku, Tbilisi, Athens, Tel Aviv and Zagreb. Wolt has over 6000 restaurant partners, 12 000 courier partners and 3 million registered users.
 
 # Where/How to get a Wolt promo code:
 
-1. Download the app and sign up: [https://bit.ly/wolt-download](https://bit.ly/wolt-download)
+1. Download the app and sign up: [https://bit.ly/wolt-download](https://bit.ly/wolt-download) - [https://itunes.apple.com/fi/app/wolt/id943905271?mt=8](Apple Store) - [https://play.google.com/store/apps/details?id=com.wolt.android](Google Play Store)
 
 2. Use the promo code: **JH7RGGE**
 
