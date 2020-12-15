@@ -33,7 +33,11 @@ Wolt operates in 18 countries and over 60 cities, including Tampere, Turku, Tall
 
 # Where/How to get a Wolt promo code:
 
-1. Download the app and sign up: [https://bit.ly/wolt-download](https://bit.ly/wolt-download) - [https://itunes.apple.com/fi/app/wolt/id943905271?mt=8](Apple Store) - [https://play.google.com/store/apps/details?id=com.wolt.android](Google Play Store)
+1. Download the app and sign up: [https://bit.ly/wolt-download](https://bit.ly/wolt-download)
+
+    * [Download the app from Apple Store](https://itunes.apple.com/fi/app/wolt/id943905271?mt=8)
+
+    * [Download the app from Google Play Store](https://play.google.com/store/apps/details?id=com.wolt.android)
 
 2. Use the promo code: **JH7RGGE**
 
