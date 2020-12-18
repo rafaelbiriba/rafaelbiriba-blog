@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Aula 5A - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Material da aula 5A do curso aprendendo a programar com ruby, o básico para
-  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
-  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+excerpt: Essa é a segunda aula com o conteúdo básico do Ruby. Explico brevemente sobre array e string#split. Este é o material da aula 5A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -18,6 +16,7 @@ comments: true
 share: true
 ads: true
 date: 2020-08-24 17:38 +0200
+last_modified_at: 2020-12-21
 ---
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-5A.jpg)
 
@@ -26,6 +25,7 @@ date: 2020-08-24 17:38 +0200
 # 5.A. Ruby Basics 2 - Array
 
 Essa é a segunda aula com o conteúdo básico do Ruby. Explico brevemente sobre array e string#split.
+
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
 ### Vídeo da aula

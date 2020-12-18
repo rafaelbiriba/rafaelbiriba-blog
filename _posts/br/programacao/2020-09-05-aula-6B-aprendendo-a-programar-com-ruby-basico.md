@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Aula 6B - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Material da aula 6B do curso aprendendo a programar com ruby, o básico para
-  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
-  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+excerpt: Essa é a terceira parte da aula de ruby básico 3, onde eu faço a correção comentada dos exercícios. Este é o material da aula 6B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -18,6 +16,7 @@ comments: true
 share: true
 ads: true
 date: 2020-09-05 09:35 +0200
+last_modified_at: 2020-12-21
 ---
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-6B.jpg)
 
@@ -27,6 +26,7 @@ date: 2020-09-05 09:35 +0200
 
 Essa é a terceira parte da aula de ruby básico 3, onde eu faço a correção comentada dos exercícios.
 
+Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
 ### Vídeo da aula
 

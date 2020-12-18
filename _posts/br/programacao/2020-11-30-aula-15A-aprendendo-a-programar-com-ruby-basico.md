@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Aula 15A - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Material da aula 15A do curso aprendendo a programar com ruby, o básico para
-  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
-  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+excerpt: Nessa aula eu explico variáveis de instância e de classe, métodos `set` e `get`, attribute accessors e método inicialização de uma classe. É uma aula continuação da aula(14A). Este é o material da aula 15A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -18,6 +16,7 @@ comments: true
 share: true
 ads: true
 date: 2020-11-30 18:55 +0100
+last_modified_at: 2020-12-21
 ---
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-15A.jpg)
 

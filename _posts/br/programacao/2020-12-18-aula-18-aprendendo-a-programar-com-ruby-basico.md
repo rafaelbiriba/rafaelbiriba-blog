@@ -1,15 +1,27 @@
 ---
 layout: post
-title: "Aula 18 - Aprendendo a programar com Ruby: O Básico para iniciantes"
-excerpt: "Material da aula 18 do curso aprendendo a programar com ruby, o básico para iniciantes. Essa seria a última aula oficial do curso básico. Mas e agora? O que fazer? O que estudar? Para que direção seguir? Nessa aula, eu preparei alguns slides com links importantes e recomendações de livros e sugestão dos próximos passos, caso você decida seguir com os estudos!"
-category: [br, programacao]
+title: 'Aula 18 - Aprendendo a programar com Ruby: O Básico para iniciantes'
+excerpt: Essa seria a última aula oficial do curso básico. Mas e agora? O que
+  fazer? O que estudar? Para que direção seguir? Nessa aula, eu preparei alguns slides
+  com links importantes e recomendações de livros e sugestão dos próximos passos,
+  caso você decida seguir com os estudos! Este é o material da aula 18 do curso aprendendo a programar com ruby, o básico para
+  iniciantes. 
+category:
+- br
+- programacao
 lang: br
-tags: [programação, tecnologia, curso, ruby, iniciantes]
+tags:
+- programação
+- tecnologia
+- curso
+- ruby
+- iniciantes
 comments: true
 share: true
 ads: true
+date: 2020-12-18 19:51 +0100
+last_modified_at: 2020-12-21
 ---
-
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-18.jpg)
 
 > :warning: Material da aula 18! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
@@ -28,7 +40,7 @@ E fique ligado no youtube! Vou lançar ao longo dos próximos meses (e talvez an
 
 ### Vídeo da aula
 
-- []()
+- [https://www.youtube.com/watch?v=M2DkwS1QQNc](https://www.youtube.com/watch?v=M2DkwS1QQNc)
 
 ### Slides
 

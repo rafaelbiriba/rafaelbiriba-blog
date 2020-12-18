@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Aula 13B - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Material da aula 13B do curso aprendendo a programar com ruby, o básico para
-  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
-  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+excerpt: Nessa aula eu faço a correção comentada dos exercícios da aula de métodos/funções. Este é o material da aula 13B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -18,6 +16,7 @@ comments: true
 share: true
 ads: true
 date: 2020-11-09 14:54 +0100
+last_modified_at: 2020-12-21
 ---
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-13B.jpg)
 
@@ -26,6 +25,8 @@ date: 2020-11-09 14:54 +0100
 # 13.B. Métodos - Correção dos exercícios
 
 Nessa aula eu faço a correção comentada dos exercícios da aula de métodos/funções.
+
+Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
 ### Vídeo da aula
 

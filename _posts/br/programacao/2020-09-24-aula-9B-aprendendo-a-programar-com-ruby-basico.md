@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Aula 9B - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Material da aula 9B do curso aprendendo a programar com ruby, o básico para
-  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
-  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+excerpt: Essa é a sexta parte da aula de ruby básico 6, onde eu faço a correção comentada dos exercícios. Este é o material da aula 9B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -18,6 +16,7 @@ comments: true
 share: true
 ads: true
 date: 2020-09-24 10:42 +0200
+last_modified_at: 2020-12-21
 ---
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-9B.jpg)
 
@@ -26,6 +25,8 @@ date: 2020-09-24 10:42 +0200
 # 9.B. Ruby Basics 6 - Correção dos exercícios
 
 Essa é a sexta parte da aula de ruby básico 6, onde eu faço a correção comentada dos exercícios.
+
+Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
 ### Vídeo da aula
 

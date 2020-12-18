@@ -20,6 +20,7 @@ comments: true
 share: true
 ads: true
 date: 2020-10-02 18:28 +0200
+last_modified_at: 2020-12-21
 ---
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-11.jpg)
 
@@ -28,6 +29,9 @@ date: 2020-10-02 18:28 +0200
 # 11. Pensando como um programador
 
 Depois de explicar diversos conteúdos nas aulas anteriores, nessa aula eu trago um pouco mais de teoria, para esclarecer como funciona a cabeça de um programador. Eu apresento um guia de como abordar o problema e ferramentas úteis para você se organizar (criando diagramas e planejamentos).
+
+Não deixe de tentar resolver os exercícios das aulas e investir algum tempo estudando mais sobre o assunto.
+=
 
 ### Vídeo da aula
 

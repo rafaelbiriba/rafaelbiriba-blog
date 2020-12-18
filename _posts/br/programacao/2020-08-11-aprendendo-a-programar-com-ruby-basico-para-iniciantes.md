@@ -8,6 +8,7 @@ tags: [programação, tecnologia, curso, ruby, iniciantes]
 comments: true
 share: true
 ads: true
+last_modified_at: 2020-12-21
 ---
 
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby.jpg)
@@ -254,7 +255,7 @@ Como rodar seus primeiros códigos em ruby diretamente do seu navegador, utiliza
 
 ## 18. Ultima aula? Dicas e próximos passos
 
-- **Agendado para 21/Dezembro/2020**
+- **Material da aula**: [https://rafaelbiriba.com/blog/br/programacao/aula-18-aprendendo-a-programar-com-ruby-basico/](/blog/br/programacao/aula-17B-aprendendo-a-programar-com-ruby-basico/)
 
 - **Vídeo**: [https://www.youtube.com/watch?v=M2DkwS1QQNc](https://www.youtube.com/watch?v=M2DkwS1QQNc)
 

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Aula 12B - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Material da aula 12B do curso aprendendo a programar com ruby, o básico para
-  iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito,
-  fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+excerpt: Essa é a segunda parte da aula de revisão de conteúdo, com a correção comentada dos exercícios. Este é o material da aula 12B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -18,6 +16,7 @@ comments: true
 share: true
 ads: true
 date: 2020-10-15 11:13 +0200
+last_modified_at: 2020-12-21
 ---
 ![](/blog/images/curso_ruby_basico/banner-curso-ruby-12B.jpg)
 
@@ -26,6 +25,7 @@ date: 2020-10-15 11:13 +0200
 # 12.B. Revisão de conteúdo
 
 Essa é a segunda parte da aula de revisão de conteúdo, com a correção comentada dos exercícios.
+
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 
 ### Vídeo da aula
