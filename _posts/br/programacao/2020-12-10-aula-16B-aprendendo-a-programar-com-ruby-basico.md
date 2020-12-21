@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 16B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Classes e Objetos 2 - Correção dos exercícios - Aula 16B - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Nessa aula eu faço a correção comentada dos exercícios da aula de Classes e Objetos 2(16.A). Este é o material da aula 16B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br

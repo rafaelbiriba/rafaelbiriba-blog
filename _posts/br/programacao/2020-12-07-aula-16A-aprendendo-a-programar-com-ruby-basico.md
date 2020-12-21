@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 'Aula 16A - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Nessa aula eu explico herança de classes, override (sobrescrita de métodos), método super, e a diferença entre require e require_relative.
-É uma aula continuação da aula 15A. Este é o material da aula 16A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+title: 'Classes e Objetos 2 - Aula 16A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+excerpt: Nessa aula eu explico herança de classes, override (sobrescrita de métodos), método super, e a diferença entre require e require_relative. É uma aula continuação da aula 15A. Este é o material da aula 16A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao

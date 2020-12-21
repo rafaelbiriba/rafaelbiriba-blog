@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 17A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Revisão de conteúdo - Aula 17A - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Essa é uma aula de revisão de conteúdo. Vou mostrar rapidamente tudo que foi ensinado nas últimas aulas, além dos exercícios um pouco mais complexos. Este é o material da aula 17A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br

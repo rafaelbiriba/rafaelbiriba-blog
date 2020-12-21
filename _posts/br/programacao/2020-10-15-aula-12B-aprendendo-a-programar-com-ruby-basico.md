@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Aula 12B - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Essa é a segunda parte da aula de revisão de conteúdo, com a correção comentada dos exercícios. Este é o material da aula 12B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+title: 'Revisão de conteúdo - Correção dos exercícios - Aula 12B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+excerpt: Nessa aula eu faço a correção comentada dos exercícios da aula de revisão de conteúdo(12A). Este é o material da aula 12B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -22,9 +22,9 @@ last_modified_at: 2020-12-21
 
 > :warning: Material da aula 12.B! Veja mais informações sobre o curso e a lista completa das aulas em: [http://cursoprogramacao.rafaelbiriba.com/](http://cursoprogramacao.rafaelbiriba.com/) :warning:
 
-# 12.B. Revisão de conteúdo
+# 12.B. Revisão de conteúdo - Correção dos exercícios
 
-Essa é a segunda parte da aula de revisão de conteúdo, com a correção comentada dos exercícios.
+Nessa aula eu faço a correção comentada dos exercícios da aula de [revisão de conteúdo](https://rafaelbiriba.com/blog/br/programacao/aula-12A-aprendendo-a-programar-com-ruby-basico/).
 
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 13A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Métodos - Aula 13A - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Nessa aula eu explico o que são métodos/funções no ruby e trago alguns exemplo de como eles são utilizados. Este é o material da aula 13A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br

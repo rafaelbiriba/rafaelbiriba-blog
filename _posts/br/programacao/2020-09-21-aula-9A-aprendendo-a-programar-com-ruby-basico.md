@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 9A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Ruby Basics 6 - Times and Range - Aula 9A - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Essa é a sexta aula com o conteúdo básico do Ruby. Explico brevemente sobre Times e Range e rapidamente sobre o operador matemático modulos (%). Este é o material da aula 9A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br

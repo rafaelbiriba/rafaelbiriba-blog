@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 8A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Ruby Basics 5 - Each - Aula 8A - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Essa é a quinta aula com o conteúdo básico do Ruby. Explico brevemente sobre a função each em um Array e em um Hash. Este é o material da aula 8A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br

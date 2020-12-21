@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 10A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: ' Ruby Basics 7 - While - Aula 10A - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Essa é a sétima aula com o conteúdo básico do Ruby. Explico brevemente sobre gets (recebe valor digitado do usuário) e while. Este é o material da aula 10A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br

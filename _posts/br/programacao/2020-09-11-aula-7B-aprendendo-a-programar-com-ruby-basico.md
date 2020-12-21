@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Aula 7B - Aprendendo a programar com Ruby: O Básico para iniciantes'
-excerpt: Essa é a quarta parte da aula de ruby básico 4, onde eu faço a correção comentada dos exercícios. Este é o material da aula 7B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
+title: 'Ruby Basics 4 - Correção dos exercícios - Aula 7B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+excerpt: Nessa aula eu faço a correção comentada dos exercícios da aula de ruby basics 4 - Conditionals(7A). Este é o material da aula 7B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
 - programacao
@@ -24,7 +24,7 @@ last_modified_at: 2020-12-21
 
 # 7.B. Ruby Basics 4 - Correção dos exercícios
 
-Essa é a quarta parte da aula de ruby básico 4, onde eu faço a correção comentada dos exercícios.
+Nessa aula eu faço a correção comentada dos exercícios da aula de [ruby basics 4 - Conditionals](https://rafaelbiriba.com/blog/br/programacao/aula-7A-aprendendo-a-programar-com-ruby-basico/).
 
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 13B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Métodos - Correção dos exercícios - Aula 13B - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Nessa aula eu faço a correção comentada dos exercícios da aula de métodos/funções. Este é o material da aula 13B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
@@ -24,7 +24,7 @@ last_modified_at: 2020-12-21
 
 # 13.B. Métodos - Correção dos exercícios
 
-Nessa aula eu faço a correção comentada dos exercícios da aula de métodos/funções.
+Nessa aula eu faço a correção comentada dos exercícios da aula de [métodos/funções](https://rafaelbiriba.com/blog/br/programacao/aula-13A-aprendendo-a-programar-com-ruby-basico/).
 
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 

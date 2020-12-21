@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 11 - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Pensando como um programador - Aula 11 - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Material da aula 11 do curso aprendendo a programar com ruby, o básico para
   iniciantes. Depois de explicar diversos conteúdos nas aulas anteriores, nessa aula
   eu trago um pouco mais de teoria, para esclarecer como funciona a cabeça de um programador.

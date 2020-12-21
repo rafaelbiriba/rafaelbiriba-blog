@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 17B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Revisão de conteúdo - Correção dos exercícios - Aula 17B - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Essa é a segunda parte da aula de revisão de conteúdo, com a correção comentada dos exercícios. Este é o material da aula 17B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br

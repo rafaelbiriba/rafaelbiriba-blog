@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 18 - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Ultima aula? Dicas e próximos passos - Aula 18 - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Essa seria a última aula oficial do curso básico. Mas e agora? O que
   fazer? O que estudar? Para que direção seguir? Nessa aula, eu preparei alguns slides
   com links importantes e recomendações de livros e sugestão dos próximos passos,

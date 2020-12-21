@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 14B - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Programação orientada a objetos - Correção dos exercícios - Aula 14B - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Nessa aula eu faço a correção dos exercícios da aula 14A, referente a classes, instâncias e métodos. Material da aula 14B do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
@@ -24,7 +24,7 @@ last_modified_at: 2020-12-21
 
 # 14.B. Programação orientada a objetos - Correção dos exercícios
 
-Nessa aula eu faço a correção dos exercícios da aula 14A, referente a classes, instâncias e métodos.
+Nessa aula eu faço a correção dos exercícios da aula de [orientação a objetos](https://rafaelbiriba.com/blog/br/programacao/aula-14A-aprendendo-a-programar-com-ruby-basico/), referente a classes, instâncias e métodos.
 
 Não deixe de tentar resolver os exercícios da aula e investir algum tempo estudando mais sobre o assunto.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aula 4A - Aprendendo a programar com Ruby: O Básico para iniciantes'
+title: 'Ruby Basics 1 - Aula 4A - Aprendendo a programar com Ruby: O Básico para iniciantes'
 excerpt: Essa é a primeira aula com o conteúdo básico do Ruby. Explico brevemente sobre String, Integer and Float, além de operações matemáticas e variáveis. Este é o material da aula 4A do curso aprendendo a programar com ruby, o básico para iniciantes. Nunca é tarde para começar a programar! Eu criei um curso gratuito, fácil e didático voltado para iniciantes. Confira mais informações aqui nessa publicação.
 category:
 - br
