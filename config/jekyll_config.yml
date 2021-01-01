@@ -67,8 +67,8 @@ owner:
     plus: #username
     analytics: UA-7346716-1
     verify:
-    ad-client: ca-pub-9952848327781387
-    ad-slot: 4958401589
+    #ad-client: ca-pub-9952848327781387
+    #ad-slot: 4958401589
   bing-verify:
 
 t:
