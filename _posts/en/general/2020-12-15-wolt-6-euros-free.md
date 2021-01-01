@@ -14,6 +14,7 @@ comments: true
 share: true
 ads: true
 date: 2020-12-15 16:13 +0100
+discount_codes: true
 ---
 # Get 6 euros off on your first order using Wolt.
 
