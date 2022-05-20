@@ -24,9 +24,6 @@
 </header><!-- /.masthead -->
 {% else %}<header class="masthead">
 	<div class="wrap">
-    {% if page.discount_codes == true %}
-    <img src="{{ site.url }}{{ site.baseurl }}/images/discount-codes/logo.png" alt="Discount-Codes" class="animated fadeInDown"></a>
-    {% else %}
       {% if site.logo != null %}
   		<a href="{{ site.url }}{{ site.baseurl }}/" rel="home" title="{{ site.title }}"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.logo }}" alt="{{ site.title }} logo" class="animated fadeInDown" style="height: 75px"></a>
       {% endif %}
@@ -34,7 +31,6 @@
         {{ site.title }} {{ site.t[page.lang].flag }}
       </a></h1>
     <h2 class="site-description animated fadeIn" itemprop="description">{% include helper/page_description.html lang= page.lang %}</h2>
-    {% endif %}
 	</div>
 </header><!-- /.masthead -->{% endif %}
 
