@@ -40,6 +40,7 @@ mathjax: true
 #include: []
 exclude:
   - _original-theme-so-simple
+  - _wordpress_deprecated
   - Gemfile
   - Gemfile.lock
   - config
