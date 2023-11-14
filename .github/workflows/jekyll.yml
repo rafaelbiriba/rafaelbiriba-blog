@@ -47,7 +47,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Copy deprecated blog
-        run: cp -R _wordpress_deprecated/* _site_production/
+        run: cp -nR _wordpress_deprecated/* _site_production/
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2

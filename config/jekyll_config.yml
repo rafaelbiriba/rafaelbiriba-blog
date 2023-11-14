@@ -4,7 +4,7 @@ title: Rafael Biriba Blog
 logo: rb-logo.png
 search: true
 url: http://127.0.0.1:4000
-baseurl: /blog
+baseurl: /
 
 en_flag: "&#x1F1EC;&#x1F1E7;"
 br_flag: "&#127463;&#127479;"
